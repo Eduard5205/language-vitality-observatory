@@ -43,6 +43,12 @@ for folder, subfolders, files in os.walk(root):
     for line in macroareas.splitlines()
     if line.strip()
 )
+    
+    level = config.get("core", "level", fallback=None)
+
+    if level != "language":
+        continue
+
 
     rows.append({
         "glottocode": ini_path.parent.name,
