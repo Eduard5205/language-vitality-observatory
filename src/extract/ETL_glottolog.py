@@ -1,7 +1,21 @@
+from urllib.parse import quote_plus
 from pathlib import Path
 import os
 import configparser
 import pandas as pd
+from sqlalchemy import (
+    create_engine,
+    text,
+    Table,
+    Column,
+    MetaData,
+    String,
+    Float,
+    ForeignKey
+)
+
+password = quote_plus("Ed5205")
+DB_URL = f"postgresql+psycopg2://postgres:{password}@localhost:5433/langauge_vitality_database"
 
 
 def clean_multiline_value(value: str) -> str:
@@ -69,6 +83,36 @@ def save_dataframe(df: pd.DataFrame, output_path: Path) -> None:
     df.to_csv(output_path, index=False, encoding="utf-8")
 
 
+def load_to_postgres(df: pd.DataFrame, db_url: str) -> None:
+    engine = create_engine(db_url)
+    metadata = MetaData()
+
+    glottolog_languages = Table(
+        "glottolog_languages",
+        metadata,
+        Column("iso639_3", String(3), primary_key=True),
+        Column("glottocode", String(8), nullable=False, unique=True),
+        Column("name", String(100), nullable=False),
+        Column("level", String(10), nullable=False),
+        Column("countries", String(150)),
+        Column("macroareas", String(50)),
+        Column("latitude", Float),
+        Column("longitude", Float),
+        Column("status", String(20)),
+    )
+
+    metadata.create_all(engine, checkfirst=True)
+
+    with engine.begin() as conn:
+        conn.execute(text("TRUNCATE TABLE glottolog_languages CASCADE"))
+        conn.execute(
+            glottolog_languages.insert(),
+            df.to_dict(orient="records"),
+        )
+
+    print(f"  Loaded {len(df)} rows into glottolog_languages")
+
+
 def main() -> None:
     project_root = Path.cwd().parents[1]
 
@@ -85,15 +129,22 @@ def main() -> None:
         project_root
         / "data"
         / "processed"
-        / "glottolog_languages_test.csv"
+        / "glottolog_languages.csv"
     )
 
     df = extract_glottolog_languages(input_root)
+
+    # Drop rows without iso639_3 (required for PK)
+    df = df.dropna(subset=["iso639_3"])
+
     save_dataframe(df, output_path)
 
     print(df.head())
     print("Rows:", len(df))
     print(f"Saved to: {output_path}")
+
+    print("Loading to PostgreSQL...")
+    load_to_postgres(df, DB_URL)
 
 
 if __name__ == "__main__":
