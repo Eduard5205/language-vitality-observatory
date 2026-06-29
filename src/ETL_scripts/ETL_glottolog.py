@@ -111,7 +111,7 @@ def load_to_postgres(df: pd.DataFrame, db_url: str) -> None:
         )
 
     print(f"  Loaded {len(df)} rows into glottolog_languages")
-
+    engine.dispose()
 
 def main() -> None:
     project_root = Path.cwd().parents[1]
