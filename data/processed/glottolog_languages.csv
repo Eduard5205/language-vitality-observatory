@@ -1,9 +1,9 @@
 glottocode,name,level,countries,macroareas,latitude,longitude,iso639_3,status
 abin1243,Abinomn,language,ID,Papunesia,-2.92281,138.891,bsa,nearly extinct
 abis1238,Aewa,language,PE,South America,-1.284096,-75.084405,ash,extinct
-abaz1241,Abaza,language,"RU,TR",Eurasia,44.25,42.0,abq,threatened
+abaz1241,Abaza,language,"RU,TR",Eurasia,44.25,42,abq,threatened
 abkh1244,Abkhaz,language,"GE,RU,TR",Eurasia,43.056218,41.159115,abk,threatened
-adyg1241,West Circassian,language,"IL,JO,RU,SY,TR",Eurasia,44.0,39.33,ady,threatened
+adyg1241,West Circassian,language,"IL,JO,RU,SY,TR",Eurasia,44,39.33,ady,threatened
 kaba1278,Kabardian,language,"RU,TR",Eurasia,43.5082,43.3918,kbd,threatened
 ubyk1235,Ubykh,language,TR,Eurasia,43.67,39.67,uby,extinct
 abun1252,Abun,language,ID,Papunesia,-0.57073,132.416,kgr,shifting
@@ -31,7 +31,7 @@ tama1365,Tamasheq,language,"BF,ML",Africa,14.2038,-2.41269,taq,not endangered
 tawa1286,Tawallammat Tamajaq,language,"BF,ML,NE,NG",Africa,13.9878,4.47692,ttq,not endangered
 taya1257,Tayart Tamajeq,language,NE,Africa,16.9232,7.6743,thz,threatened
 taha1241,Tahaggart Tamahaq,language,"DZ,LY,ML,NE,NG",Africa,22.5908,8.73169,thv,threatened
-guan1277,Guanche,language,ES,Africa,28.0,-15.5,gnc,extinct
+guan1277,Guanche,language,ES,Africa,28,-15.5,gnc,extinct
 tets1235,Tetserret,language,"NE,NG",Africa,14.973333,5.699722,tez,threatened
 zena1248,Zenaga,language,"EH,MR,SN",Africa,16.82,-16.1711,zen,moribund
 mbuk1243,Mbuko,language,CM,Africa,10.7788,14.1677,mqb,not endangered
@@ -291,7 +291,7 @@ ebla1238,Eblaite,language,SY,Eurasia,35.798,36.798,xeb,extinct
 anci1245,Ancient North Arabian,language,SA,Eurasia,29.044,39.776,xna,extinct
 hadr1236,Hadrami Arabic,language,"SA,YE",Eurasia,15.4468,48.6524,ayh,not endangered
 hija1235,Hijazi Arabic,language,"SA,YE",Eurasia,22.8346,38.9237,acw,not endangered
-jude1267,Judeo-Yemeni Arabic,language,"IL,YE",Eurasia,15.0,45.0,jye,threatened
+jude1267,Judeo-Yemeni Arabic,language,"IL,YE",Eurasia,15,45,jye,threatened
 sana1295,Sanaani Arabic,language,"SA,YE",Eurasia,15.6552,44.8412,ayn,not endangered
 baha1259,Baharna Arabic,language,"BH,OM",Eurasia,26.223615,50.580811,abv,not endangered
 dhof1235,Dhofari Arabic,language,OM,Eurasia,17.0796,54.4894,adf,not endangered
@@ -306,7 +306,7 @@ meso1252,Gilit Mesopotamian Arabic,language,"IQ,IR,JO,SY,TR",Eurasia,33.8178,43.
 jude1266,Judeo-Iraqi Arabic,language,"GB,IL,IN,IQ",Eurasia,31.5339,41.2595,yhd,not endangered
 nort3142,North Mesopotamian Arabic,language,"IQ,JO,SY,TR",Eurasia,36.2986,42.0047,ayp,not endangered
 east2690,Eastern Egyptian Bedawi Arabic,language,"EG,IL,JO,PS,SA",Eurasia,29.6742,33.6113,avl,not endangered
-egyp1253,Egyptian Arabic,language,"EG,IL,LY",Africa,31.0,31.0,arz,not endangered
+egyp1253,Egyptian Arabic,language,"EG,IL,LY",Africa,31,31,arz,not endangered
 said1239,Saidi Arabic,language,"EG,SD",Africa,25.4132,30.5302,aec,not endangered
 chad1249,Chadian Arabic,language,"CM,NE,NG,TD",Africa,14.67,13.5,shu,not endangered
 nubi1253,Nubi,language,"CD,KE,SS,UG,US",Africa,-0.183215,34.7552,kcn,shifting
@@ -328,7 +328,7 @@ stan1318,Standard Arabic,language,"AE,BH,DJ,DZ,EG,ER,IL,IQ,JO,KM,KW,LB,LY,MA,OM,
 impe1235,Imperial Aramaic (700-300 BCE),language,IQ,Eurasia,33.905,42.185,arc,extinct
 boht1238,Gardabani Bohtan Neo-Aramaic,language,"GE,RU",Eurasia,41.459,45.084,bhn,moribund
 hert1241,Hertevin,language,TR,Eurasia,37.373,42.5192,hrt,moribund
-assy1241,Assyrian Neo-Aramaic,language,"IQ,IR,SY,TR",Eurasia,36.75,43.0,aii,shifting
+assy1241,Assyrian Neo-Aramaic,language,"IQ,IR,SY,TR",Eurasia,36.75,43,aii,shifting
 chal1275,Chaldean Neo-Aramaic,language,"IQ,SY,TR",Eurasia,37.0972,43.5027,cld,shifting
 jewi1240,Jewish Babylonian Aramaic (ca. 200-1200 CE),language,IL,Eurasia,32.273,44.245,tmr,extinct
 barz1241,Barzani Jewish Neo-Aramaic,language,IL,Eurasia,31.7696,35.1536,bjf,nearly extinct
@@ -343,7 +343,7 @@ clas1252,Classical Syriac,language,TR,Eurasia,37.1129,42.1432,syc,extinct
 clas1253,Classical Mandaic,language,IR,Eurasia,36.1203,49.5659,myz,extinct
 nucl1706,Neo-Mandaic,language,"AU,IQ,IR,US",Eurasia,31.3443,48.8128,mid,moribund
 west2763,Western Neo-Aramaic,language,SY,Eurasia,33.8162,36.484,amw,shifting
-olda1245,Old Aramaic-Sam'alian,language,SY,Eurasia,32.84,37.0,oar,extinct
+olda1245,Old Aramaic-Sam'alian,language,SY,Eurasia,32.84,37,oar,extinct
 anci1244,Ancient Hebrew,language,IL,Eurasia,31.7761,35.1725,hbo,extinct
 hebr1245,Modern Hebrew,language,"IL,JO,LB,PS,SY",Eurasia,31.1056,35.0179,heb,not endangered
 sama1313,Samaritan,language,"IL,PS",Eurasia,32.0817,35.4487,smp,extinct
@@ -390,8 +390,8 @@ nort1552,Northern East Cree,language,CA,North America,55.1928,-77.7505,crl,threa
 mich1243,Heritage Michif,language,"CA,US",North America,49.1681,-99.9119,crg,moribund
 plai1258,Plains Cree,language,"CA,US",North America,51.2437,-110.463,crk,moribund
 sout2978,Southern East Cree,language,CA,North America,51.4078,-78.6971,crj,threatened
-swam1239,Swampy Cree,language,CA,North America,56.0,-95.0,csw,threatened
-wood1236,Woods Cree,language,CA,North America,57.0,-99.0,cwd,threatened
+swam1239,Swampy Cree,language,CA,North America,56,-95,csw,threatened
+wood1236,Woods Cree,language,CA,North America,57,-99,cwd,threatened
 mont1268,Montagnais,language,CA,North America,49.0533,-68.7376,moe,threatened
 nask1242,Naskapi,language,CA,North America,55.9316,-61.1318,nsk,threatened
 caro1243,Carolina Algonquian,language,US,North America,35.979,-77.291,crr,extinct
@@ -402,7 +402,7 @@ mahi1248,Mahican,language,US,North America,42.587,-73.788,mjy,extinct
 east2544,Eastern Abenaki,language,US,North America,45.0112,-68.6617,aaq,extinct
 west2630,Western Abenaki,language,"CA,US",North America,46.1381,-72.6511,abe,nearly extinct
 male1292,Malecite-Passamaquoddy,language,"CA,US",North America,45.494475,-67.40805,pqm,shifting
-mikm1235,Mi'kmaq,language,"CA,US",North America,46.0,-64.0,mic,shifting
+mikm1235,Mi'kmaq,language,"CA,US",North America,46,-64,mic,shifting
 loup1243,Nipmuck,language,US,North America,42.364,-72.731,xlo,extinct
 wamp1249,Wampanoag,language,US,North America,41.705,-73.3148,wam,extinct
 mohe1244,Mohegan-Montauk-Narragansett,language,US,North America,41.8581,-72.1701,mof,extinct
@@ -411,8 +411,8 @@ nant1249,Nanticoke,language,US,North America,39.67781,-74.98648,nnt,extinct
 pisc1239,Piscataway,language,US,North America,39.073,-76.803,psy,extinct
 powh1243,Powhatan,language,US,North America,36.99422,-77.20752,pim,extinct
 kick1244,Kickapoo,language,"MX,US",North America,41.655145,-89.03034,kic,shifting
-mesk1242,Meskwaki,language,US,North America,44.0,-89.0,sac,moribund
-miam1252,Miami,language,US,North America,40.0,-90.0,mia,extinct
+mesk1242,Meskwaki,language,US,North America,44,-89,sac,moribund
+miam1252,Miami,language,US,North America,40,-90,mia,extinct
 cent2136,Central Ojibwa,language,"CA,US",North America,46.5741,-84.1543,ojc,shifting
 chip1241,Chippewa,language,"CA,US",North America,47.347,-94.2738,ciw,shifting
 east2542,Eastern Ojibwa,language,CA,North America,45.0112,-79.7503,ojg,shifting
@@ -422,7 +422,7 @@ otta1242,Ottawa,language,"CA,US",North America,44.5988,-83.226,otw,moribund
 algo1255,Algonquin,language,CA,North America,47.3876,-77.5258,alq,threatened
 seve1240,Severn Ojibwa,language,CA,North America,53.9092,-89.9331,ojs,threatened
 pota1247,Potawatomi,language,"CA,US",North America,40.955,-89.1881,pot,nearly extinct
-shaw1249,Shawnee,language,US,North America,40.0,-83.0,sjw,moribund
+shaw1249,Shawnee,language,US,North America,40,-83,sjw,moribund
 meno1252,Menominee,language,US,North America,44.9794,-88.6395,mez,moribund
 siks1238,Siksika,language,"CA,US",North America,49.0669,-113.109,bla,moribund
 wiyo1248,Wiyot,language,US,North America,39.2492,-122.952,wiy,extinct
@@ -430,7 +430,7 @@ yuro1248,Yurok,language,US,North America,41.3262,-123.824,yur,extinct
 alse1251,Alsea-Yaquina,language,US,North America,44.408,-123.94,aes,extinct
 amto1250,Amto,language,PG,Papunesia,-4.12165,141.339,amt,shifting
 siaw1243,Siawi,language,PG,Papunesia,-4.05312,141.42,mmp,moribund
-anda1286,Andaqui,language,CO,South America,2.74999,-76.0,ana,extinct
+anda1286,Andaqui,language,CO,South America,2.74999,-76,ana,extinct
 ando1256,Andoque,language,CO,South America,-0.53751,-72.0869,ano,nearly extinct
 anem1249,Anem,language,PG,Papunesia,-5.54836,148.993,anz,shifting
 anga1290,Angaataha,language,PG,Papunesia,-7.15012,146.352,agm,not endangered
@@ -578,7 +578,7 @@ sout2957,Southern Tutchone,language,CA,North America,60.7823,-136.573,tce,moribu
 chip1261,Chipewyan,language,CA,North America,58.98,-104.44,chp,shifting
 beav1236,Beaver,language,CA,North America,56.7984,-120.352,bea,moribund
 seka1250,Sekani,language,CA,North America,57.4421,-125.664,sek,nearly extinct
-kask1239,Kaska,language,CA,North America,61.0,-130.0,kkz,nearly extinct
+kask1239,Kaska,language,CA,North America,61,-130,kkz,nearly extinct
 tagi1240,Tagish,language,CA,North America,60.242,-134.799,tgx,extinct
 tahl1239,Tahltan,language,CA,North America,58.4498,-130.052,tht,nearly extinct
 dogr1252,Dogrib,language,CA,North America,63.17,-117.25,dgr,shifting
@@ -610,7 +610,7 @@ east2387,East Limba,language,"GN,SL",Africa,9.71107,-11.7496,lma,threatened
 west2450,West-Central Limba,language,SL,Africa,9.52392,-12.3138,lia,not endangered
 mans1259,Mansoanka,language,"GM,GW",Africa,12.8218,-15.9202,msw,threatened
 bomk1234,Bom-Kim,language,SL,Africa,9.27518,-11.59696,bmf,nearly extinct
-bull1247,Bullom So,language,"GN,SL",Africa,9.0,-13.16,buy,moribund
+bull1247,Bullom So,language,"GN,SL",Africa,9,-13.16,buy,moribund
 sher1258,Sherbro,language,SL,Africa,7.77585,-12.7405,bun,not endangered
 nort2765,Northern Kissi,language,"GN,LR,SL",Africa,8.7283,-10.4063,kqs,not endangered
 sout2778,Southern Kisi,language,"GN,LR,SL",Africa,8.32448,-10.3377,kss,not endangered
@@ -630,10 +630,10 @@ mlom1238,Mlomp,language,SN,Africa,12.8318,-16.5383,mlo,shifting
 kuwa1246,Kuwaataay,language,SN,Africa,12.48255,-16.74835,cwt,shifting
 band1340,Bandial,language,SN,Africa,12.5258,-16.4245,bqj,shifting
 gusi1246,Gusilay,language,SN,Africa,12.7761,-16.5026,gsl,threatened
-jola1263,Jola-Fonyi,language,"GM,GW,SN",Africa,12.75752,-15.7354766667,dyo,not endangered
+jola1263,Jola-Fonyi,language,"GM,GW,SN",Africa,12.75752,-15.73547667,dyo,not endangered
 mand1419,Mandjak,language,"GM,GW,SN",Africa,12.829,-15.9217,mfv,threatened
 pape1239,Papel,language,"GW,SN",Africa,11.8977,-15.8388,pbo,threatened
-mank1251,Mankanya,language,"GW,SN",Africa,12.2615066667,-15.74389,knf,threatened
+mank1251,Mankanya,language,"GW,SN",Africa,12.26150667,-15.74389,knf,threatened
 bidy1244,Kanyaki-Kagbaaga-Kajoko Bidyogo,language,GW,Africa,11.1097,-16.1497,bjg,not endangered
 bady1239,Jaad-Badyara,language,"GN,GW,SN",Africa,12.6425,-13.4759,pbp,threatened
 biaf1240,Biafada,language,GW,Africa,11.467,-15.1347,bif,threatened
@@ -952,7 +952,7 @@ ngbe1238,Ngbee,language,CD,Africa,3.60447,27.6529,jgb,extinct
 nyan1303,Nyanga-li,language,CD,Africa,2.97634,29.1805,nyc,moribund
 homa1239,Homa,language,SS,Africa,4.97912,28.0039,hom,extinct
 ngbi1238,Ngbinda-Mayeka,language,CD,Africa,3.27251,23.5669,nbd,nearly extinct
-bodo1272,Bodo (Central African Republic),language,CF,Africa,6.0,26.0,boy,moribund
+bodo1272,Bodo (Central African Republic),language,CF,Africa,6,26,boy,moribund
 bogu1241,Boguru,language,"CD,SS",Africa,4.49213,29.1344,bqu,shifting
 lige1238,Ligenza,language,CD,Africa,2.86168,22.4936,lgz,not endangered
 ngom1268,Ngombe (Democratic Republic of Congo),language,"CD,CF",Africa,1.45357,20.14148,ngc,not endangered
@@ -1214,7 +1214,7 @@ seba1247,Seba,language,"CD,ZM",Africa,-11.9396,27.5144,kdg,threatened
 taab1238,Taabwa,language,"CD,ZM",Africa,-7.91416,29.5238,tap,not endangered
 nsen1242,Nsenga,language,"MZ,ZM,ZW",Africa,-15.3946,31.3544,nse,not endangered
 nort2795,Zimbabwean Ndebele,language,"BW,ZM,ZW",Africa,-20.2513,27.4096,nde,not endangered
-swat1243,Swati,language,"LS,MZ,SZ,ZA",Africa,-26.0,31.5,ssw,not endangered
+swat1243,Swati,language,"LS,MZ,SZ,ZA",Africa,-26,31.5,ssw,not endangered
 xhos1239,Xhosa,language,"BW,LS,ZA",Africa,-31.0389,28.0769,xho,not endangered
 zulu1248,Zulu,language,"BW,LS,MZ,SZ,ZA",Africa,-28.9,30.2,zul,not endangered
 chop1243,Chopi,language,MZ,Africa,-24.8327,34.1097,cce,not endangered
@@ -1726,7 +1726,7 @@ kpas1242,Kpasam,language,NG,Africa,8.75286,11.231,pbn,not endangered
 yott1234,Yotti,language,NG,Africa,9.160993,11.672759,yot,not endangered
 teme1252,Teme,language,NG,Africa,8.74437,11.3894,tdo,not endangered
 waka1275,Waka,language,NG,Africa,8.79968,11.4932,wav,not endangered
-yend1241,Yendang,language,NG,Africa,9.0,11.8,ynq,not endangered
+yend1241,Yendang,language,NG,Africa,9,11.8,ynq,not endangered
 doya1240,Doyayo,language,CM,Africa,8.68604,13.0768,dow,not endangered
 gimm1241,Gimme,language,"CM,NG",Africa,8.58084,12.6658,kmp,threatened
 gimn1238,Gimnime,language,"CM,NG",Africa,8.58129,12.7869,gmn,threatened
@@ -1779,7 +1779,7 @@ ganz1247,Ganzi,language,CF,Africa,6.544,19.347,gnz,shifting
 gund1247,Gundi,language,"CF,CM",Africa,3.68861,17.30096,gdi,not endangered
 lima1246,Limassa,language,CF,Africa,2.26808,16.1874,bme,shifting
 gili1241,Gilima,language,"CD,CF",Africa,4.5585,19.0091,gix,not endangered
-ngba1284,Ngbaka Ma'bo,language,"CD,CF,CG",Africa,4.0,18.12,nbm,not endangered
+ngba1284,Ngbaka Ma'bo,language,"CD,CF,CG",Africa,4,18.12,nbm,not endangered
 gban1258,Gbanziri-Boraka,language,"CD,CF",Africa,4.68467,20.2609,gbg,threatened
 kpal1241,Kpala,language,"CD,CF",Africa,4.51093,20.3108,kpl,threatened
 yang1289,Yango,language,CD,Africa,2.81523,19.0108,yng,shifting
@@ -2287,7 +2287,7 @@ seim1238,Seimat,language,PG,Papunesia,-1.2666667,144.25,ssg,not endangered
 wuvu1239,Wuvulu-Aua,language,PG,Papunesia,-1.73938,142.851,wuv,not endangered
 laua1243,Lauan,language,FJ,Papunesia,-18.2131,-178.785,llx,not endangered
 gone1237,Gone Dau,language,FJ,Papunesia,-16.5886,178.599,goo,not endangered
-fiji1243,Fijian,language,FJ,Papunesia,-18.0,178.33,fij,not endangered
+fiji1243,Fijian,language,FJ,Papunesia,-18,178.33,fij,not endangered
 loma1261,Lomaiviti,language,FJ,Papunesia,-18.0001,179.306,lmv,not endangered
 anut1237,Anuta,language,SB,Papunesia,-11.61,169.85,aud,shifting
 east2447,East Futuna,language,WF,Papunesia,-14.278717,-178.137222,fud,not endangered
@@ -2310,7 +2310,7 @@ nort2845,North Marquesan,language,PF,Papunesia,-8.89412,-140.108,mrq,shifting
 sout2866,South Marquesan,language,PF,Papunesia,-9.75663,-138.979,mqm,shifting
 hawa1245,Hawaiian,language,US,Papunesia,19.6297,-155.43,haw,moribund
 maor1246,Maori,language,NZ,Papunesia,-38.2881,176.541,mri,shifting
-mori1267,Moriori,language,NZ,Papunesia,-44.0,-176.5,rrm,extinct
+mori1267,Moriori,language,NZ,Papunesia,-44,-176.5,rrm,extinct
 penr1237,Māngarongaro,language,CK,Papunesia,-9.082238,-157.922908,pnh,moribund
 raka1237,Rakahanga-Manihiki,language,"CK,NZ",Papunesia,-10.03,-161.09,rkh,shifting
 rapa1245,Mangaia-Old Rapa,language,PF,Papunesia,-27.6304,-144.338,ray,nearly extinct
@@ -2831,7 +2831,7 @@ karo1299,Northern Binukidnon,language,PH,Papunesia,9.992,122.816,kyn,not endange
 maga1264,Southern Binukidnon,language,PH,Papunesia,9.49196,122.769,mtw,not endangered
 butu1244,Butuanon,language,PH,Papunesia,8.87009,125.418,btw,shifting
 taus1251,Tausug,language,"ID,MY,PH",Papunesia,5.12236,118.88,tsg,not endangered
-suri1273,Surigaonon,language,PH,Papunesia,9.0,126.0,sgd,threatened
+suri1273,Surigaonon,language,PH,Papunesia,9,126,sgd,threatened
 tand1258,Tandaganon,language,PH,Papunesia,8.9815,126.186,tgn,not endangered
 ataa1240,Ata,language,PH,Papunesia,9.715,122.9,atm,nearly extinct
 akla1240,Aklanon,language,PH,Papunesia,11.55432,122.35413,akl,not endangered
@@ -2899,7 +2899,7 @@ lapu1236,Lapuyan Subanun,language,PH,Papunesia,7.53449,123.13,laa,threatened
 koli1253,Kolibugan Subanon,language,PH,Papunesia,7.77212,122.567,skn,not endangered
 west2557,Western Subanon,language,PH,Papunesia,7.79964,122.341,suc,threatened
 umir1236,Umiray Dumaget Agta,language,PH,Papunesia,14.8757,121.508,due,threatened
-kawi1241,Kawi,language,ID,Papunesia,-7.0,111.0,kaw,extinct
+kawi1241,Kawi,language,ID,Papunesia,-7,111,kaw,extinct
 cari1276,Caribbean Javanese,language,"GF,SR",South America,5.62695,-54.6305,jvn,not endangered
 java1254,Javanese,language,"ID,MY",Papunesia,-7.001,109.287,jav,not endangered
 newc1244,New Caledonian Javanese,language,NC,Papunesia,-22.3001,166.445,jas,shifting
@@ -2922,7 +2922,7 @@ ribu1241,Ribun,language,ID,Papunesia,0.32189,110.207,rir,not endangered
 sang1339,Sanggau,language,ID,Papunesia,-0.13152,110.404,scg,threatened
 sema1269,Onya Darat,language,ID,Papunesia,-0.75188,110.527,sdm,not endangered
 kang1289,Kangean,language,ID,Papunesia,-7.98335,112.968,kkv,not endangered
-nucl1460,Madurese,language,ID,Papunesia,-7.0,113.0,mad,not endangered
+nucl1460,Madurese,language,ID,Papunesia,-7,113,mad,not endangered
 achi1257,Acehnese,language,ID,Papunesia,3.90757,96.6032,ace,threatened
 east2563,Eastern Cham,language,VN,Eurasia,11.2853,108.49,cjm,threatened
 oldc1255,Old Cham,language,VN,Eurasia,15.82167,108.23194,ocm,extinct
@@ -2972,7 +2972,7 @@ jaku1244,Jakun,language,MY,Eurasia,2.64582,103.342,jak,threatened
 keda1251,Kedah-Perak Malay,language,"MY,TH",Eurasia,5.933,100.492,meo,not endangered
 patt1249,Kelantan-Pattani Malay,language,"MY,TH",Eurasia,6.38148,101.41,mfa,threatened
 urak1238,Urak Lawoi',language,"MY,TH",Eurasia,7.5258,99.0768,urk,shifting
-mala1479,Central Malay,language,"ID,MY,SG,TH",Eurasia,1.85856,103.0,zlm,not endangered
+mala1479,Central Malay,language,"ID,MY,SG,TH",Eurasia,1.85856,103,zlm,not endangered
 oran1258,Orang Kanaq,language,MY,Eurasia,1.88296,104.008,orn,moribund
 oran1259,Orang Seletar,language,"MY,SG",Eurasia,1.45841,103.766,ors,shifting
 temu1239,Temuan,language,MY,Eurasia,2.78176,101.906,tmw,shifting
@@ -3045,7 +3045,7 @@ pang1290,Pangasinan,language,PH,Papunesia,15.9377,120.365,pag,not endangered
 dupa1235,Dupaninan Agta,language,PH,Papunesia,17.3748,122.188,duo,shifting
 casi1235,Casiguran-Nagtipunan Agta,language,PH,Papunesia,16.2176,121.878,dgc,shifting
 agta1234,Agta-Pahanan,language,PH,Papunesia,17.0538,122.2802,apf,not endangered
-para1306,Paranan,language,PH,Papunesia,17.0,122.372,prf,not endangered
+para1306,Paranan,language,PH,Papunesia,17,122.372,prf,not endangered
 dica1235,Dicamay Agta,language,PH,Papunesia,17.8846,121.606,duy,extinct
 baha1257,Bahau,language,ID,Papunesia,0.30801,115.332,bhv,threatened
 bara1370,Baram Kayan,language,MY,Papunesia,3.51211,114.482,kys,threatened
@@ -3114,7 +3114,7 @@ palu1253,Paluan,language,MY,Papunesia,5.02715,116.346,plz,threatened
 taga1273,Tagal Murut,language,"ID,MY",Papunesia,4.42907,116.177,mvv,threatened
 buru1304,Burusu,language,ID,Papunesia,3.36912,117.012,bqr,threatened
 nort3262,Northern Tidung,language,MY,Papunesia,5.8606,117.5455,ntd,shifting
-sout3241,Southern Tidung,language,ID,Papunesia,4.0,117.75,itd,not endangered
+sout3241,Southern Tidung,language,ID,Papunesia,4,117.75,itd,not endangered
 papa1268,Papar,language,MY,Papunesia,5.57378,115.58,dpp,shifting
 tata1257,Tatana,language,MY,Papunesia,5.49808,115.553,txx,threatened
 kaja1250,Kajaman,language,MY,Papunesia,2.78613,113.886,kag,threatened
@@ -3323,7 +3323,7 @@ tsou1248,Tsou,language,"CN,TW",Papunesia,23.216,120.787,tsu,shifting
 babu1240,Babuza,language,CN,Papunesia,24.0017,120.585,bzg,extinct
 papo1239,Papora-Hoanya,language,CN,Papunesia,24.324,120.577,ppu,extinct
 thao1240,Thao,language,"CN,TW",Papunesia,23.8333,120.93,ssf,extinct
-cent2142,Central Aymara,language,"AR,BO,CL,PE",South America,-17.0,-68.5,ayr,threatened
+cent2142,Central Aymara,language,"AR,BO,CL,PE",South America,-17,-68.5,ayr,threatened
 sout2996,Southern Aymara,language,"AR,BO,CL,PE",South America,-17.1417,-70.3442,ayc,not endangered
 jaqa1244,Jaqaru,language,PE,South America,-12.741939,-75.809231,jqr,moribund
 baib1251,Baibai,language,PG,Papunesia,-3.42672,141.345,bbf,shifting
@@ -3343,7 +3343,7 @@ toto1306,Totoro,language,CO,South America,2.55149,-76.6379,ttk,extinct
 basq1248,Basque,language,"ES,FR",Eurasia,43.2787,-1.31622,eus,threatened
 awbo1238,Awbono,language,ID,Papunesia,-5.05875,139.724,awh,threatened
 bayo1260,Bayono,language,ID,Papunesia,-5.21728,139.617,byl,threatened
-beot1247,Beothuk,language,CA,North America,48.0,-57.0,bue,extinct
+beot1247,Beothuk,language,CA,North America,48,-57,bue,extinct
 bert1248,Berta,language,"ET,SD",Africa,10.6474,34.7042,wti,shifting
 bilu1245,Bilua,language,"PG,SB",Papunesia,-7.92388,156.663,blb,shifting
 bira1253,Ongota,language,ET,Africa,5.29807,37.025,bxe,nearly extinct
@@ -3354,7 +3354,7 @@ adab1235,Adabe,language,"ID,TL",Papunesia,-8.22674,125.576,adb,not endangered
 adap1234,Adap,language,BT,Eurasia,27.141,90.3369,adp,
 adug1238,Aduge,language,NG,Africa,7.64567,6.13085,adu,threatened
 adze1241,Adzera (Retired),language,,,,,azr,
-aghu1256,Aghu Tharnggalu (Retired),language,AU,Australia,-15.0,144.0,gtu,extinct
+aghu1256,Aghu Tharnggalu (Retired),language,AU,Australia,-15,144,gtu,extinct
 ahea1240,Ahe,language,,,,,ahe,
 ahir1243,Ahirani,language,IN,Eurasia,21.552,73.685,ahr,not endangered
 aiku1240,Aiku,language,,,,,mzf,
@@ -3379,7 +3379,7 @@ bala1306,Balau,language,MY,Papunesia,1.33476,110.913,blg,threatened
 bana1306,Banawá,language,,,,,bnh,
 band1337,Bandjigali,language,AU,Australia,-30.0771,143.282,bjd,
 belg1241,Belgian Sign Language,language,,,,,bvs,
-bemb1258,Bemba (Democratic Republic of Congo),language,CD,Africa,-10.0,28.08,bmy,
+bemb1258,Bemba (Democratic Republic of Congo),language,CD,Africa,-10,28.08,bmy,
 beti1250,Beti (Cameroon),language,CM,Africa,3.22265,11.6896,btb,
 bhal1245,Bhalay,language,IN,Eurasia,21.2665,77.8268,bhx,not endangered
 bhat1237,Bhatola,language,IN,Eurasia,22.7174,80.842,btl,
@@ -3393,7 +3393,7 @@ bura1269,Buraka,language,"CD,CF",Africa,4.42283,20.7161,bkg,threatened
 buso1242,Buso,language,TD,Africa,12.5008,17.6011,bso,moribund
 buxi1237,Buxinhua,language,,,,,bxt,
 buya1245,Buya,language,CD,Africa,-4.90828,26.298,byy,
-cagu1236,Cagua,language,CO,South America,3.99999,-74.0,cbh,extinct
+cagu1236,Cagua,language,CO,South America,3.99999,-74,cbh,extinct
 calo1235,Calo,language,ES,Eurasia,40.8339,-3.5144,rmr,
 caru1240,Carútana,language,,,,,cru,
 cata1284,Cataelano Mandaya,language,PH,Papunesia,7.77188,126.373,mst,
@@ -3410,7 +3410,7 @@ chuj1251,"Chuj, Ixtatán",language,"GT,MX",North America,,,cnm,
 chum1264,Chumash,language,US,North America,,,chs,
 cona1234,Con,language,LA,Eurasia,20.6442,100.904,cno,threatened
 coxi1236,Coxima,language,CO,South America,6.08332,-72.0833,kox,extinct
-coya1241,Coyaima,language,CO,South America,11.3333,-73.0,coy,extinct
+coya1241,Coyaima,language,CO,South America,11.3333,-73,coy,extinct
 cume1234,Cumeral,language,CO,South America,2.83332,-69.5,cum,extinct
 dara1255,Darang Deng,language,,,,,dat,
 daya1245,Dayao Yi,language,,,,,yio,
@@ -3578,10 +3578,10 @@ occi1241,Occidental,language,,,,,occ,
 odut1238,Odut,language,NG,Africa,5.20317,8.27253,oda,moribund
 oldi1244,Old Indic,language,IN,Eurasia,,,qmx,extinct
 oldp1255,Old Persian,language,,,,,ope,
-oldt1247,Old Turkish,language,MN,Eurasia,37.0,59.0,otk,extinct
+oldt1247,Old Turkish,language,MN,Eurasia,37,59,otk,extinct
 olko1234,Olkol,language,AU,Australia,-15.2,142.4,olk,nearly extinct
 omat1240,Omati,language,PG,Papunesia,-7.39808,144.005,mgx,
-omej1234,Omejes,language,CO,South America,0.99999,-70.0,ome,extinct
+omej1234,Omejes,language,CO,South America,0.99999,-70,ome,extinct
 onte1239,Ontenu,language,PG,Papunesia,-6.45912,145.765,ont,shifting
 orok1270,Orokaiva (Retired),language,,,,,ork,
 oung1238,!O!ung,language,"AO,NA",Africa,-15.3,14.35,oun,
@@ -3744,7 +3744,7 @@ burm1264,Burmeso,language,ID,Papunesia,-2.47582,138.203,bzu,shifting
 buru1296,Burushaski,language,"IN,PK",Eurasia,36.2161,74.8236,bsk,shifting
 cadd1256,Caddo,language,US,North America,33.33,-93.5,cad,nearly extinct
 kits1249,Kitsai,language,US,North America,31.83,-96.5,kii,extinct
-arik1262,Arikara,language,US,North America,45.0,-100.0,ari,nearly extinct
+arik1262,Arikara,language,US,North America,45,-100,ari,nearly extinct
 pawn1254,Pawnee,language,US,North America,36.2862,-96.8937,paw,nearly extinct
 wich1260,Wichita,language,US,North America,35.0665,-98.1831,wic,extinct
 chay1248,Shawi,language,PE,South America,-5.63764,-76.8252,cbt,threatened
@@ -3825,7 +3825,7 @@ keng1240,Kenga,language,TD,Africa,11.6816,18.1464,kyq,not endangered
 gula1269,Gula (Chad),language,TD,Africa,10.3049,19.2182,glu,not endangered
 moro1281,Morom,language,TD,Africa,12.14611,17.64653,bdo,not endangered
 jaya1242,Jaya,language,TD,Africa,12.3707,17.9415,jyy,shifting
-bera1261,Berakou,language,TD,Africa,12.5,15.0,bxv,extinct
+bera1261,Berakou,language,TD,Africa,12.5,15,bxv,extinct
 naba1253,Naba,language,TD,Africa,12.7868,18.0777,mne,not endangered
 gula1268,Gulay,language,TD,Africa,9.06629,17.3151,gvl,not endangered
 horo1247,Horo,language,TD,Africa,9.239,18.378,hor,extinct
@@ -3872,10 +3872,10 @@ west2651,Western Tunebo,language,CO,South America,6.90704,-72.6507,tnb,shifting
 male1297,Maléku Jaíka,language,CR,North America,10.7485,-84.7318,gut,shifting
 rama1270,Rama,language,NI,North America,11.5007,-83.8571,rma,moribund
 pech1241,Pech,language,HN,North America,15.8033,-85.558,pay,moribund
-chim1301,Chimariko,language,US,North America,41.0,-123.0,cid,extinct
+chim1301,Chimariko,language,US,North America,41,-123,cid,extinct
 chim1310,Chimakum,language,US,North America,47.91457,-123.139145,xch,extinct
 quil1240,Quileute,language,US,North America,47.9106,-124.603,qui,extinct
-chin1272,Creolized Grand Ronde Chinook Jargon,language,"CA,US",North America,55.0,-125.0,chn,extinct
+chin1272,Creolized Grand Ronde Chinook Jargon,language,"CA,US",North America,55,-125,chn,extinct
 chin1286,Clatsop-Shoalwater Chinook,language,US,North America,46.39132,-123.9249,chh,extinct
 wasc1239,Upper Chinook,language,US,North America,45.0278,-121.509,wac,extinct
 chiq1248,Lomeriano-Ignaciano Chiquitano,language,"BO,BR",South America,-16.769554,-61.817795,cax,shifting
@@ -3888,8 +3888,8 @@ embe1261,Emberá-Tadó,language,CO,South America,5.23658,-77.1533,tdc,threatened
 embe1262,Emberá-Chamí,language,"CO,PA",South America,4.8791,-76.0749,cmi,threatened
 anse1238,Anserma,language,CO,South America,6.24999,-76.05,ans,extinct
 cara1271,Caramanta,language,CO,South America,5.624,-75.877,crf,extinct
-woun1238,Woun Meu,language,"CO,PA",South America,8.5,-78.0,noa,shifting
-onaa1245,Selk'nam,language,AR,South America,-54.0,-68.5,ona,extinct
+woun1238,Woun Meu,language,"CO,PA",South America,8.5,-78,noa,shifting
+onaa1245,Selk'nam,language,AR,South America,-54,-68.5,ona,extinct
 tehu1242,Tehuelche,language,AR,South America,-47.5796,-68.3235,teh,extinct
 alut1245,Alutor,language,RU,Eurasia,60.3844,165.653,alr,moribund
 chuk1273,Chukchi,language,RU,Eurasia,68.6436,170.045,ckt,shifting
@@ -4009,7 +4009,7 @@ erav1242,Eravallan,language,IN,Eurasia,10.8003,76.8389,era,threatened
 mala1458,Malasar,language,IN,Eurasia,10.467,76.833,ymr,not endangered
 mann1246,Mannan,language,IN,Eurasia,9.85,76.97,mjv,threatened
 muth1236,Muthuvan,language,IN,Eurasia,10.3524,76.7328,muv,not endangered
-oldt1248,Old Tamil,language,IN,Eurasia,11.0,78.0,oty,extinct
+oldt1248,Old Tamil,language,IN,Eurasia,11,78,oty,extinct
 pali1274,Paliyan,language,IN,Eurasia,10.087,77.1863,pcf,threatened
 tami1289,Tamil,language,"IN,LK",Eurasia,10.520219,78.825989,tam,not endangered
 kaik1244,Kaikadi,language,IN,Eurasia,18.3859,76.0003,kep,not endangered
@@ -4110,7 +4110,7 @@ kach1284,Kachama-Ganjule-Haro,language,ET,Africa,6.3971,37.9291,kcx,shifting
 koor1239,Koorete,language,ET,Africa,5.80545,37.8679,kqy,not endangered
 zays1235,Zayse-Zergulla,language,ET,Africa,5.83747,37.3409,zay,threatened
 bask1236,Basketo,language,ET,Africa,6.45774,36.5763,bst,threatened
-dawr1236,Dawro,language,ET,Africa,6.95,37.0,dwr,not endangered
+dawr1236,Dawro,language,ET,Africa,6.95,37,dwr,not endangered
 gamo1243,Gamo,language,ET,Africa,6.27645,37.23808,gmv,not endangered
 gofa1235,Gofa,language,ET,Africa,6.57645,37.05,gof,not endangered
 dorz1235,Dorze,language,ET,Africa,6.25237,37.5554,doz,threatened
@@ -4134,7 +4134,7 @@ cuib1242,Cuiba,language,"CO,VE",South America,6.19829,-69.8197,cui,shifting
 guah1255,Sikuani,language,"CO,VE",South America,5.81736,-68.9839,guh,threatened
 play1240,Playero,language,"CO,VE",South America,6.90948,-71.0036,gob,shifting
 maca1259,Hitnu,language,CO,South America,6.34582,-71.2671,mbn,shifting
-abip1241,Abipon,language,AR,South America,-29.0,-61.0,axb,extinct
+abip1241,Abipon,language,AR,South America,-29,-61,axb,extinct
 moco1246,Mocoví,language,AR,South America,-28.097,-60.4145,moc,shifting
 pila1245,Pilagá,language,"AR,PY",South America,-25.0058,-60.1537,plg,shifting
 toba1269,Toba,language,"AR,BO,PY",South America,-23.77,-61.96,tob,threatened
@@ -4235,8 +4235,8 @@ bise1238,Biseni,language,NG,Africa,5.40296,6.51646,ije,shifting
 okod1238,Okodia,language,NG,Africa,5.29237,6.44113,okd,shifting
 orum1241,Oruma,language,NG,Africa,4.9377,6.38295,orr,shifting
 izon1238,Izon,language,NG,Africa,5.17986,5.51702,ijc,not endangered
-hitt1242,Hittite,language,TR,Eurasia,40.0,35.0,hit,extinct
-cune1239,Cuneiform Luwian,language,TR,Eurasia,38.0,36.0,xlu,extinct
+hitt1242,Hittite,language,TR,Eurasia,40,35,hit,extinct
+cune1239,Cuneiform Luwian,language,TR,Eurasia,38,36,xlu,extinct
 hier1240,Hieroglyphic Luwian,language,TR,Eurasia,40.019722,34.615278,hlu,extinct
 lyci1241,Lycian A,language,TR,Eurasia,36.517,29.764,xlc,extinct
 side1240,Sidetic,language,TR,Eurasia,36.764,31.917,xsd,extinct
@@ -4247,17 +4247,17 @@ pala1331,Palaic,language,TR,Eurasia,41.334,33.499,plq,extinct
 lydi1241,Lydian,language,TR,Eurasia,40.287,28.599,xld,extinct
 arbe1236,Arbëreshë Albanian,language,IT,Eurasia,38.911,16.7164,aae,threatened
 arva1236,Arvanitika Albanian,language,GR,Eurasia,38.283,23.3703,aat,threatened
-tosk1239,Northern Tosk Albanian,language,"AL,GR,MK",Eurasia,41.0,20.0,als,not endangered
+tosk1239,Northern Tosk Albanian,language,"AL,GR,MK",Eurasia,41,20,als,not endangered
 gheg1238,Gheg Albanian,language,"AL,BG,ME,MK,RO,RS",Eurasia,42.317,21.3837,aln,not endangered
 clas1249,Classical-Middle Armenian,language,AM,Eurasia,38.592316,41.346422,xcl,extinct
 homs1234,Western Armenian,language,TR,Eurasia,40.1897,44.4839,hyw,threatened
-nucl1235,Eastern Armenian,language,"AM,AZ,GE,IR,SY,TR",Eurasia,40.0,45.0,hye,not endangered
+nucl1235,Eastern Armenian,language,"AM,AZ,GE,IR,SY,TR",Eurasia,40,45,hye,not endangered
 latv1249,Latvian,language,"BY,EE,LT,LV,RU",Eurasia,56.826108,24.309118,lav,threatened
 lith1251,Lithuanian,language,"BY,LT,LV,PL,RU",Eurasia,55.1429,23.9601,lit,not endangered
 prus1238,Old Prussian,language,PL,Eurasia,52.394,14.757,prg,extinct
 bela1254,Belarusian,language,"BY,LT,LV,PL,RU,UA",Eurasia,53.2307,25.6038,bel,threatened
 oldr1238,Old Russian,language,RU,Eurasia,54.813,31.827,orv,extinct
-russ1263,Russian,language,"BY,CN,EE,FI,GE,KG,KP,KZ,LT,LV,MD,MN,NO,PL,RO,RU,SJ,TM,UA,UZ",Eurasia,59.0,50.0,rus,not endangered
+russ1263,Russian,language,"BY,CN,EE,FI,GE,KG,KP,KZ,LT,LV,MD,MN,NO,PL,RO,RU,SJ,TM,UA,UZ",Eurasia,59,50,rus,not endangered
 rusy1239,Rusyn,language,"BY,HU,PL,RO,SK,UA",Eurasia,48.7171,22.9579,rue,threatened
 ukra1253,Ukrainian,language,"BY,HU,MD,PL,RO,RU,SK,UA",Eurasia,49.796,29.945,ukr,threatened
 chur1257,Church Slavic,language,RU,Eurasia,43.7171,22.8442,chu,extinct
@@ -4270,7 +4270,7 @@ sout1528,Serbian-Croatian-Bosnian,language,RS,Eurasia,44.15,18.81,hbs,not endang
 czec1258,Czech,language,"AT,CZ,PL,SK",Eurasia,49.873398,15.10437,ces,not endangered
 slov1269,Slovak,language,"AT,CZ,HU,PL,RS,SK,UA",Eurasia,48.545705,18.78479,slk,threatened
 kash1274,Kashubian,language,PL,Eurasia,54.2996,18.6163,csb,threatened
-pola1255,Polabian,language,DE,Eurasia,52.0,14.0,pox,extinct
+pola1255,Polabian,language,DE,Eurasia,52,14,pox,extinct
 poli1260,Polish,language,"BY,CZ,DE,LT,PL,RU,SK,UA",Eurasia,51.8439,18.6255,pol,not endangered
 sile1253,Silesian,language,PL,Eurasia,50.9656,16.9491,szl,threatened
 lowe1385,Lower Sorbian,language,DE,Eurasia,51.6621,13.9407,dsb,shifting
@@ -4282,14 +4282,14 @@ tran1282,Transalpine Gaulish,language,FR,Eurasia,43.97,3.3,xtg,extinct
 gala1252,Galatian,language,TR,Eurasia,39.34,32.84,xga,extinct
 nori1240,Noric,language,SI,Eurasia,46.419444,15.869444,nrc,extinct
 oldw1239,Old-Middle Welsh,language,GB,Eurasia,52.582,-4.089,owl,extinct
-wels1247,Welsh,language,"AR,GB",Eurasia,52.0,-4.0,cym,threatened
+wels1247,Welsh,language,"AR,GB",Eurasia,52,-4,cym,threatened
 bret1244,Breton,language,FR,Eurasia,48.2452,-3.78934,bre,not endangered
 corn1251,Cornish,language,GB,Eurasia,50.5233,-4.18619,cor,extinct
 oldc1252,Old South-West British,language,GB,Eurasia,50.61436,-4.34409,oco,extinct
 manx1243,Manx,language,"GB,IM",Eurasia,54.2604,-4.45437,glv,extinct
 scot1245,Scottish Gaelic,language,GB,Eurasia,56.7574,-5.24366,gla,shifting
 iris1253,Irish,language,"GB,IE",Eurasia,53.2186,-7.61509,gle,shifting
-oldi1245,Early Irish,language,IE,Eurasia,53.0,-8.0,sga,extinct
+oldi1245,Early Irish,language,IE,Eurasia,53,-8,sga,extinct
 goth1244,Gothic,language,UA,Eurasia,46.9304,29.9786,got,extinct
 dale1238,Dalecarlian,language,SE,Eurasia,61.291358,13.830399,qer,shifting
 swed1254,Swedish,language,"AX,DK,FI,NO,SE",Eurasia,59.800634,17.389526,swe,not endangered
@@ -4316,17 +4316,17 @@ swis1247,Central Alemannic,language,"AT,CH,DE,FR,IT,LI",Eurasia,47.0516,8.46419,
 wals1238,Walser,language,"AT,CH,IT,LI",Eurasia,46.6995,9.18266,wae,threatened
 bava1246,Bavarian,language,"AT,CH,CZ,DE,IT,RO,SI",Eurasia,47.9232,13.246,bar,threatened
 cimb1238,Cimbrian,language,IT,Eurasia,45.921,11.324,cim,shifting
-hutt1235,Hutterite German,language,"CA,US",North America,40.0,-97.0,geh,not endangered
+hutt1235,Hutterite German,language,"CA,US",North America,40,-97,geh,not endangered
 moch1255,Mòcheno,language,IT,Eurasia,46.1064,11.315,mhn,shifting
 stan1295,German,language,"AT,BE,CH,CZ,DE,DK,FR,HU,IT,LI,LU,NL,PL,RO,SI,SK",Eurasia,48.649,12.4676,deu,not endangered
 unse1236,Unserdeutsch,language,"AU,PG",Papunesia,-4.19566,152.183,uln,nearly extinct
 main1267,Ostfränkisch,language,DE,Eurasia,50.005,8.621,vmf,threatened
 west2361,Western Yiddish,language,"BE,CH,DE,FR,HU,IL,NL",Eurasia,51.6889,12.2601,yih,extinct
-oldh1241,Old High German (ca. 750-1050),language,DE,Eurasia,52.0,10.0,goh,extinct
+oldh1241,Old High German (ca. 750-1050),language,DE,Eurasia,52,10,goh,extinct
 midd1321,Middle Dutch,language,NL,Eurasia,51.656,5.34,dum,extinct
 afri1274,Afrikaans,language,"BW,MZ,NA,ZA,ZM,ZW",Africa,-31.63272,20.46356,afr,not endangered
 oorl1238,Oorlams,language,ZA,Africa,-28.38447,23.01446,oor,not endangered
-dutc1256,Dutch,language,"AW,BE,BQ,BR,CW,DE,GF,GY,NL,SR,SX",Eurasia,52.0,5.0,nld,not endangered
+dutc1256,Dutch,language,"AW,BE,BQ,BR,CW,DE,GF,GY,NL,SR,SX",Eurasia,52,5,nld,not endangered
 javi1237,Javindo,language,ID,Papunesia,-7.032902,110.419809,jvd,extinct
 petj1238,Petjo,language,ID,Papunesia,-6.16593,106.8,pey,nearly extinct
 vlaa1240,Western Flemish,language,"BE,FR,NL",Eurasia,51.0754,3.11345,vls,threatened
@@ -4344,7 +4344,7 @@ midd1318,Middle Low German,language,DE,Eurasia,53.14,9.67,gml,extinct
 olds1250,Old Saxon,language,DE,Eurasia,52.37,9.72,osx,extinct
 east2834,Irish Anglo-Norman,language,IE,Eurasia,52.2496,-6.6488,yol,extinct
 baja1265,Bajan,language,BB,North America,13.1365,-59.5346,bjs,threatened
-creo1235,Guyanese Creole English,language,"GY,SR",South America,9.0,-62.0,gyn,not endangered
+creo1235,Guyanese Creole English,language,"GY,SR",South America,9,-62,gyn,not endangered
 trin1276,Trinidadian Creole English,language,TT,South America,10.4208,-61.4171,trf,not endangered
 virg1240,Virgin Islands Creole English,language,"BQ,MF,PR,SX,VG,VI",North America,18.04715,-63.07851,vic,threatened
 anti1245,Antigua and Barbuda Creole English,language,"AG,AI,DM,GB,KN,MS",North America,17.068263,-61.821863,aig,not endangered
@@ -4376,7 +4376,7 @@ torr1261,Torres Strait-Lockhart River Creole,language,AU,Australia,-11.066,142.6
 hawa1247,Hawai'i Creole English,language,US,Papunesia,19.6287,-155.437,hwc,not endangered
 krio1252,Kriol,language,AU,Australia,-18.135,137.669,rop,not endangered
 pitc1234,Pitcairn-Norfolk,language,"AU,FJ,NF,NZ,PN",Papunesia,-24.379858,-128.324075,pih,shifting
-stan1293,English,language,"AU,BM,BR,BZ,CA,CC,CK,CU,CX,DO,FK,GB,GG,GI,GP,GS,GT,GY,HN,IE,IM,IO,JE,KY,LR,MX,NF,PN,SH,SR,UM,US,VE,ZA",Eurasia,53.0,-1.0,eng,not endangered
+stan1293,English,language,"AU,BM,BR,BZ,CA,CC,CK,CU,CX,DO,FK,GB,GG,GI,GP,GS,GT,GY,HN,IE,IM,IO,JE,KY,LR,MX,NF,PN,SH,SR,UM,US,VE,ZA",Eurasia,53,-1,eng,not endangered
 midd1317,Middle English,language,GB,Eurasia,51.65,-1.11,enm,extinct
 scot1243,Scots,language,GB,Eurasia,55.886945,-3.710133,sco,threatened
 olde1238,Old English (ca. 450-1100),language,GB,Eurasia,51.06,-1.31,ang,extinct
@@ -4397,13 +4397,13 @@ gawa1247,Gawar-Bati,language,"AF,PK",Eurasia,35.1982,71.5428,gwt,threatened
 gran1245,Grangali-Ningalami,language,AF,Eurasia,34.945491,70.703334,nli,shifting
 shum1235,Shumashti,language,AF,Eurasia,34.73008,70.782866,sts,moribund
 kala1372,Chitral Kalasha,language,PK,Eurasia,35.6415,71.6657,kls,shifting
-khow1242,Khowar,language,"IN,PK",Eurasia,36.0,72.0,khw,not endangered
+khow1242,Khowar,language,"IN,PK",Eurasia,36,72,khw,not endangered
 bhat1265,Bhatri,language,IN,Eurasia,19.26078,82.24055,bgw,not endangered
 bhun1242,Bhunjia,language,IN,Eurasia,21.2761,83.1614,bhu,threatened
 halb1244,Halbi,language,IN,Eurasia,20.3081,81.3742,hlb,not endangered
 kama1350,Kamar,language,IN,Eurasia,20.5342,81.9101,keq,not endangered
 naha1262,Nahari,language,IN,Eurasia,20.4118,81.97747,nhh,threatened
-beng1280,Bengali,language,"BD,IN,NP",Eurasia,24.0,90.0,ben,not endangered
+beng1280,Bengali,language,"BD,IN,NP",Eurasia,24,90,ben,not endangered
 bish1244,Bishnupriya Manipuri,language,"BD,IN,MM",Eurasia,24.4578,92.0157,bpy,threatened
 hajo1238,Hajong,language,"BD,IN",Eurasia,25.5143,89.8594,haj,not endangered
 sylh1242,Sylheti,language,"BD,IN,MM",Eurasia,24.83724,92.25347,syl,not endangered
@@ -4424,7 +4424,7 @@ surj1235,Surjapuri,language,IN,Eurasia,25.686,85.792,sjp,not endangered
 adiv1239,Kotia-Adivasi Oriya-Desiya,language,IN,Eurasia,18.1046,82.8487,ort,not endangered
 bodo1266,Bodo Parja,language,IN,Eurasia,19.0745,82.8774,bdv,not endangered
 kupi1238,Kupia,language,IN,Eurasia,16.4708,79.5153,key,threatened
-oriy1255,Odia,language,IN,Eurasia,21.0,85.0,ory,not endangered
+oriy1255,Odia,language,IN,Eurasia,21,85,ory,not endangered
 reli1238,Reli,language,IN,Eurasia,18.1213,82.4996,rei,threatened
 samb1325,Sambalpuri,language,IN,Eurasia,21.2233,83.9315,spv,not endangered
 pais1238,Paisaci Prakrit,language,IN,Eurasia,19.48,75.38,qpp,extinct
@@ -4439,8 +4439,8 @@ west2386,Western Panjabi,language,"IN,PK",Eurasia,30.0948,75.3474,pnb,not endang
 khet1238,Khetrani,language,PK,Eurasia,30.4799,70.2828,xhe,not endangered
 jadg1238,Jadgali,language,"IR,PK",Eurasia,26.9682,63.535,jdg,not endangered
 lasi1242,Lasi,language,PK,Eurasia,25.3293,66.9137,lss,not endangered
-kach1277,Kachchi,language,"IN,PK",Eurasia,23.83,69.0,kfr,not endangered
-sind1272,Sindhi,language,"IN,PK",Eurasia,26.0,69.0,snd,not endangered
+kach1277,Kachchi,language,"IN,PK",Eurasia,23.83,69,kfr,not endangered
+sind1272,Sindhi,language,"IN,PK",Eurasia,26,69,snd,not endangered
 luwa1238,Luwati,language,OM,Eurasia,23.6322,58.4916,luv,threatened
 memo1238,Memoni,language,PK,Eurasia,24.853,67.007,mby,shifting
 sind1270,Sindhi Bhil,language,PK,Eurasia,24.5408,69.0008,sbn,not endangered
@@ -4453,7 +4453,7 @@ varh1239,Varhadi-Nagpuri,language,IN,Eurasia,20.7139,79.7516,vah,not endangered
 varl1238,Dungar Varli,language,IN,Eurasia,20.5635,73.2975,vav,not endangered
 konk1267,Konkan Marathi,language,IN,Eurasia,18.404,73.994,knn,not endangered
 phud1238,Phudagi,language,IN,Eurasia,18.7153,73.3684,phd,threatened
-oldm1244,Old Marathi,language,IN,Eurasia,18.0,75.0,omr,extinct
+oldm1244,Old Marathi,language,IN,Eurasia,18,75,omr,extinct
 dubl1239,Dubli,language,IN,Eurasia,21.5161,73.218,dub,threatened
 guja1252,Gujarati,language,"BD,IN,PK",Eurasia,22.687,71.0962,guj,not endangered
 saur1248,Saurashtra,language,IN,Eurasia,9.99172,77.9427,saz,not endangered
@@ -4509,7 +4509,7 @@ garh1243,Garhwali,language,"CN,IN",Eurasia,30.5061,78.7201,gbm,threatened
 kuma1273,Kumaoni,language,"IN,NP",Eurasia,29.5622,80.0171,kfy,threatened
 doty1234,Dotyali,language,NP,Eurasia,29.242,80.7252,dty,not endangered
 juml1238,Jumli,language,NP,Eurasia,29.1708,82.437,jml,not endangered
-nepa1254,Nepali,language,NP,Eurasia,28.0,85.0,npi,not endangered
+nepa1254,Nepali,language,NP,Eurasia,28,85,npi,not endangered
 dhan1264,Dhanki,language,IN,Eurasia,20.7719,73.7418,dhn,not endangered
 khan1272,Khandesi,language,IN,Eurasia,21.3181,74.142,khn,not endangered
 angi1238,Angika,language,"IN,NP",Eurasia,26.0047,85.534,anp,threatened
@@ -4540,7 +4540,7 @@ awad1243,Awadhi,language,"IN,NP",Eurasia,27.5907,82.4663,awa,not endangered
 bagh1251,Bagheli,language,"IN,NP",Eurasia,24.6837,87.4994,bfy,not endangered
 chha1249,Chhattisgarhi,language,IN,Eurasia,20.3601,82.0483,hne,not endangered
 powa1246,Powari,language,IN,Eurasia,21.797,79.239,pwr,threatened
-doma1258,Domari,language,"EG,IL,JO,PS,SY",Eurasia,32.0,35.0,rmt,moribund
+doma1258,Domari,language,"EG,IL,JO,PS,SY",Eurasia,32,35,rmt,moribund
 doma1260,Domaaki,language,PK,Eurasia,36.3258,74.7984,dmk,moribund
 balk1252,Balkan Romani,language,"AL,AT,BA,BG,BY,CH,CZ,DE,FI,FR,GB,GR,HR,HU,IR,IT,LT,LV,MD,ME,MK,NL,PL,RO,RS,RU,SI,SK,TR,UA",Eurasia,42.67,21.17,rmn,not endangered
 balt1257,Baltic Romani,language,"BY,LT,LV,PL,RU",Eurasia,57.29,29.06,rml,threatened
@@ -4558,15 +4558,15 @@ hary1238,Haryanvi,language,IN,Eurasia,29.0166,76.0432,bgc,not endangered
 kana1281,Kanauji,language,IN,Eurasia,27.1074,79.2883,bjj,threatened
 anda1280,Andaman Creole Hindi,language,IN,Eurasia,11.676,92.738,hca,not endangered
 fiji1242,Fiji Hindi,language,"AU,FJ,US",Papunesia,-17.8148,177.772,hif,not endangered
-hind1269,Hindi,language,"BD,BT,IN,NP",Eurasia,25.0,77.0,hin,not endangered
-urdu1245,Urdu,language,"AF,BD,IN,PK",Eurasia,25.0,67.0,urd,not endangered
+hind1269,Hindi,language,"BD,BT,IN,NP",Eurasia,25,77,hin,not endangered
+urdu1245,Urdu,language,"AF,BD,IN,PK",Eurasia,25,67,urd,not endangered
 gher1238,Ghera,language,PK,Eurasia,25.383,68.368,ghr,not endangered
 gurg1240,Gurgula,language,PK,Eurasia,25.737,68.565,ggg,not endangered
 saur1252,Sauraseni Prakrit,language,IN,Eurasia,27.46,77.56,psu,extinct
 jaun1243,Jaunsari,language,IN,Eurasia,30.5587,77.9084,jns,threatened
 bhad1241,Bhadrawahi,language,"IN,PK",Eurasia,33.2851,75.8707,bhd,threatened
 chin1475,Chinali,language,IN,Eurasia,32.555,76.961,cih,threatened
-lahu1250,Lahul Lohar,language,IN,Eurasia,32.583,77.0,lhl,threatened
+lahu1250,Lahul Lohar,language,IN,Eurasia,32.583,77,lhl,threatened
 chur1258,Churahi,language,IN,Eurasia,32.8969,76.1124,cdj,not endangered
 bhat1263,Bhattiyali,language,IN,Eurasia,32.4022,76.0311,bht,not endangered
 bila1253,Bilaspuri,language,IN,Eurasia,31.3842,76.6739,kfs,not endangered
@@ -4602,18 +4602,18 @@ kalk1245,Kalkoti,language,PK,Eurasia,35.3651,72.0533,xka,shifting
 phal1254,Palula,language,PK,Eurasia,35.5096,71.8421,phl,threatened
 savi1242,Sauji,language,"AF,PK",Eurasia,35.166757,71.461926,sdg,not endangered
 dhiv1236,Dhivehi,language,"IN,MV",Eurasia,1.928498,73.54433,div,not endangered
-sinh1246,Sinhala,language,LK,Eurasia,8.0,81.0,sin,not endangered
+sinh1246,Sinhala,language,LK,Eurasia,8,81,sin,not endangered
 vedd1240,Veddah,language,LK,Eurasia,6.97396,81.2618,ved,extinct
 nort2666,Northeast Pashayi,language,AF,Eurasia,34.878256,70.890845,aee,threatened
 sout2672,Southeast Pashayi,language,AF,Eurasia,34.66597,70.592042,psi,threatened
 nort2665,Northwest Pashayi,language,AF,Eurasia,34.931823,70.087592,glh,threatened
 sout2671,Southwest Pashayi,language,AF,Eurasia,34.8478,69.8734,psh,threatened
-sans1269,Sanskrit,language,IN,Eurasia,20.0,77.0,san,extinct
+sans1269,Sanskrit,language,IN,Eurasia,20,77,san,extinct
 aves1237,Avestan,language,IR,Eurasia,34.217,62.112,ave,extinct
 bact1239,Bactrian,language,AF,Eurasia,36.81,66.85,xbc,extinct
 east2304,Eastern Balochi,language,PK,Eurasia,29.38213,69.05834,bgp,not endangered
 koro1296,Koroshi,language,IR,Eurasia,29.441,53.008,ktl,shifting
-sout2642,Southern Balochi,language,"IR,OM,PK",Eurasia,26.0,64.0,bcc,not endangered
+sout2642,Southern Balochi,language,"IR,OM,PK",Eurasia,26,64,bcc,not endangered
 west2368,Western Balochi,language,"AF,IR,PK,TM",Eurasia,29.49928,66.02877,bgn,not endangered
 gila1241,Gilaki,language,IR,Eurasia,37.1344,49.8359,glk,not endangered
 rudb1238,Rudbari,language,IR,Eurasia,37.0878,49.8801,rdb,shifting
@@ -4630,7 +4630,7 @@ lasg1238,Lasgerdi,language,IR,Eurasia,35.40153,52.99868,lsa,shifting
 sang1315,Sangisari,language,IR,Eurasia,35.72,53.3,sgr,threatened
 sork1239,Sorkhei-Aftari,language,IR,Eurasia,35.45652,53.21897,sqo,threatened
 cent1972,Central Kurdish,language,"IQ,IR",Eurasia,35.6539,45.8077,ckb,not endangered
-nort2641,Northern Kurdish,language,"AM,AZ,IQ,IR,JO,KW,SY,TM,TR",Eurasia,37.0,43.0,kmr,threatened
+nort2641,Northern Kurdish,language,"AM,AZ,IQ,IR,JO,KW,SY,TM,TR",Eurasia,37,43,kmr,threatened
 sout2640,Southern Kurdish,language,"IQ,IR",Eurasia,32.8977,46.5976,sdh,threatened
 laki1244,Laki,language,IR,Eurasia,34.0103,47.9398,lki,not endangered
 part1239,Parthian,language,IR,Eurasia,37.052,56.056,xpr,extinct
@@ -4671,7 +4671,7 @@ yidg1240,Yadgha,language,PK,Eurasia,36.014,71.5077,ydg,shifting
 ormu1247,Ormuri,language,"AF,PK",Eurasia,32.6819,69.3444,oru,shifting
 para1299,Parachi,language,AF,Eurasia,36.0432,70.8805,prc,shifting
 cent1973,Central Pashto,language,"AF,PK",Eurasia,31.9153,69.4529,pst,not endangered
-nort2646,Northern Pashto,language,"AF,IN,PK",Eurasia,34.0,71.33,pbu,not endangered
+nort2646,Northern Pashto,language,"AF,IN,PK",Eurasia,34,71.33,pbu,not endangered
 sout2649,Southern Pashto,language,"AF,IR,PK,TJ,TM",Eurasia,31.5,65.7,pbt,not endangered
 wane1241,Waneci,language,PK,Eurasia,30.0501,67.8327,wne,not endangered
 khot1251,Khotanese,language,CN,Eurasia,38.33,79.04,kho,extinct
@@ -4687,7 +4687,7 @@ dari1249,Dari,language,"AF,IR,PK,TJ,TM",Eurasia,34.39757,66.14961,prs,not endang
 dehw1238,Dehwari,language,PK,Eurasia,29.5205,66.5977,deh,not endangered
 haza1239,Hazaragi,language,"AF,IR,PK,TJ",Eurasia,33.3708,64.5105,haz,not endangered
 pahl1240,Pahlavani,language,AF,Eurasia,31.3267,62.1978,phv,extinct
-bukh1238,Bukharic,language,"IL,UZ",Eurasia,41.0,64.0,bhh,not endangered
+bukh1238,Bukharic,language,"IL,UZ",Eurasia,41,64,bhh,not endangered
 taji1245,Tajik,language,"AF,CN,KG,TJ,UZ",Eurasia,38.8213,68.5549,tgk,not endangered
 jude1257,Judeo-Persian,language,"IL,IR",Eurasia,31.45071,43.57147,jpr,extinct
 west2369,Western Farsi,language,"AF,AZ,IQ,IR,TM,TR",Eurasia,32.9,53.3,pes,not endangered
@@ -4699,7 +4699,7 @@ sout2647,Southern Luri,language,IR,Eurasia,30.4669,50.8382,luz,not endangered
 nort2645,Northern Luri,language,"IQ,IR",Eurasia,32.5438,47.916,lrc,not endangered
 sout2645,Fars Dialects,language,IR,Eurasia,29.746,52.267,fay,shifting
 pahl1241,Pahlavi,language,IR,Eurasia,30.06,52.7,pal,extinct
-oldp1254,Old Persian (ca. 600-400 B.C.),language,IR,Eurasia,32.0,54.0,peo,extinct
+oldp1254,Old Persian (ca. 600-400 B.C.),language,IR,Eurasia,32,54,peo,extinct
 ashk1246,Ashkun,language,AF,Eurasia,35.10699,70.542035,ask,shifting
 kati1270,Katë,language,"AF,PK",Eurasia,35.4145,70.9826,bsh,shifting
 treg1243,Tregami,language,AF,Eurasia,34.998117,71.099792,trm,shifting
@@ -4736,7 +4736,7 @@ hait1244,Haitian,language,"DO,HT",North America,18.795135,-72.136115,hat,not end
 guad1242,Guadeloupe-Martinique Creole French,language,"BL,GP,MQ",North America,16.304875,-61.405914,gcf,not endangered
 sain1246,Saint Lucian Creole French,language,LC,North America,15.3947,-61.3641,acf,not endangered
 loui1240,Louisiana Creole French,language,US,North America,30.0412,-90.7475,lou,moribund
-stan1290,French,language,"AD,BE,CA,CH,FR,GF,IT,LU,MC,PM,TF,US",Eurasia,48.0,2.0,fra,not endangered
+stan1290,French,language,"AD,BE,CA,CH,FR,GF,IT,LU,MC,PM,TF,US",Eurasia,48,2,fra,not endangered
 mori1278,Morisyen,language,MU,Africa,-20.2613,57.5517,mfe,not endangered
 sese1246,Seselwa Creole French,language,SC,Africa,-4.62314,55.4503,crs,not endangered
 reun1238,Réunion Creole French,language,RE,Africa,-21.1131,55.5321,rcf,not endangered
@@ -4774,7 +4774,7 @@ mala1533,Malacca-Batavia Portuguese Creole,language,MY,Eurasia,2.188087,102.2620
 timo1258,Timor Pidgin,language,TL,Papunesia,-8.65995,125.59,tvy,extinct
 kabu1256,Kabuverdianu,language,CV,Africa,15.0586,-23.6148,kea,not endangered
 papi1253,Papiamento,language,"AW,BQ,CW,NL",South America,12.48485,-69.93988,pap,not endangered
-uppe1455,Upper Guinea Crioulo,language,"GM,GW,SN,US",Africa,13.2335066667,-15.33254,pov,not endangered
+uppe1455,Upper Guinea Crioulo,language,"GM,GW,SN,US",Africa,13.23350667,-15.33254,pov,not endangered
 mind1263,Minderico,language,PT,Eurasia,39.5144,-8.68866,drc,moribund
 arag1245,Aragonese,language,"ES,FR",Eurasia,42.4669,-0.00919,arg,shifting
 moza1249,Mozarabic,language,ES,Eurasia,37.8763,-1.79724,mxi,extinct
@@ -4808,7 +4808,7 @@ amar1271,Amurdak,language,AU,Australia,-11.9876,132.878,amg,nearly extinct
 gari1253,Garig-Ilgar,language,AU,Australia,-11.412,132.182,ilg,extinct
 iwai1244,Iwaidja,language,AU,Australia,-11.3379,132.453,ibd,shifting
 maun1240,Mawng,language,AU,Australia,-11.66,133.376,mph,threatened
-nucl1643,Japanese,language,JP,Eurasia,35.0,135.0,jpn,not endangered
+nucl1643,Japanese,language,JP,Eurasia,35,135,jpn,not endangered
 yila1234,Vernacular Atayalic Japanese,language,"CN,TW",Papunesia,24.381274,121.574283,ycr,shifting
 oldj1239,Old Japanese,language,JP,Eurasia,34.68333,135.8,ojp,extinct
 kika1239,Kikai,language,JP,Eurasia,28.31,129.982,kzg,moribund
@@ -4844,7 +4844,7 @@ nuka1242,Nukak Makú,language,CO,South America,2.65939,-71.4629,mbr,shifting
 kala1400,Central Kalapuya,language,US,North America,44.9861,-123.925,kyl,extinct
 tual1242,Tualatin-Yamhill,language,US,North America,45.327,-122.955,nrt,extinct
 yonc1234,Yoncalla,language,US,North America,43.568,-123.466,sxk,extinct
-kama1372,Kamakan,language,BR,South America,-15.0,-41.0,vkm,extinct
+kama1372,Kamakan,language,BR,South America,-15,-41,vkm,extinct
 aeky1238,Aekyom,language,PG,Papunesia,-5.88478,141.532,awi,not endangered
 pare1271,Pare,language,PG,Papunesia,-6.46878,141.658,ppt,not endangered
 kamu1260,Kamula,language,PG,Papunesia,-7.28798,142.639,xla,shifting
@@ -4926,7 +4926,7 @@ yaha1248,Yahadian,language,ID,Papunesia,-1.94317,132.096,ner,threatened
 jeju1234,Jejueo,language,KR,Eurasia,33.3805,126.5554,jje,shifting
 kore1280,Korean,language,"CN,KP,KR,RU",Eurasia,37.54,126.98,kor,not endangered
 ajas1235,Aja (South Sudan),language,"SD,SS",Africa,8.58003,25.6122,aja,shifting
-gbay1288,Kresh-Woro,language,"CF,SD,SS",Africa,8.43391,25.0,krs,threatened
+gbay1288,Kresh-Woro,language,"CF,SD,SS",Africa,8.43391,25,krs,threatened
 bakw1243,Bakwé,language,CI,Africa,5.23123,-6.51077,bjw,not endangered
 wane1242,Wané,language,CI,Africa,4.85171,-6.44406,hwa,threatened
 gagn1235,Gagnoa Bété,language,CI,Africa,6.10051,-5.9701,btg,not endangered
@@ -4974,7 +4974,7 @@ kung1259,Kungarakany,language,AU,Australia,-12.7,130.881,ggk,extinct
 bian1252,Biangai,language,PG,Papunesia,-7.33882,146.765,big,not endangered
 kuni1267,Kunimaipa,language,PG,Papunesia,-8.09371,146.908,kup,not endangered
 weri1253,Weri,language,PG,Papunesia,-7.71834,146.914,wer,not endangered
-kunz1244,Kunza,language,CL,South America,-23.0,-69.0,kuz,extinct
+kunz1244,Kunza,language,CL,South America,-23,-69,kuz,extinct
 kuot1243,Kuot,language,PG,Papunesia,-3.06952,151.537,kto,shifting
 kusu1250,Kusunda,language,NP,Eurasia,28.33,82.6,kgg,nearly extinct
 kute1249,Kutenai,language,"CA,US",North America,48.7892,-115.065,kut,nearly extinct
@@ -4994,7 +4994,7 @@ naii1241,Nai,language,PG,Papunesia,-3.73034,141.273,bio,shifting
 nucl1593,Kwomtari,language,PG,Papunesia,-3.50718,141.488,kwo,shifting
 hoaa1235,Amkoe,language,BW,Africa,-23.93447,24.69828,huc,moribund
 juho1239,South-Eastern Ju,language,"BW,NA",Africa,-19.688,20.7673,ktz,threatened
-kung1261,North-Central Ju,language,"AO,NA,ZA",Africa,-21.92,18.0,knw,threatened
+kung1261,North-Central Ju,language,"AO,NA,ZA",Africa,-21.92,18,knw,threatened
 vase1234,Northern Ju,language,AO,Africa,-18.2675,18.1864,vaj,threatened
 laal1242,Laal,language,TD,Africa,10.0063,17.6143,gdm,shifting
 foau1240,Abawiri,language,ID,Papunesia,-3.04582,139.213,flh,shifting
@@ -5107,7 +5107,7 @@ woro1256,Worodougou,language,CI,Africa,8.23453,-6.72244,jud,not endangered
 mark1256,Marka,language,"BF,ML",Africa,12.7178,-3.58355,rkm,not endangered
 kago1248,Kagoro,language,ML,Africa,14.0546,-9.96404,xkg,threatened
 kita1249,Kita Maninkakan,language,"GN,ML",Africa,13.1798,-9.49151,mwk,not endangered
-mand1436,Mandinka,language,"GM,GN,GW,SN",Africa,12.8165233333,-15.6539466667,mnk,not endangered
+mand1436,Mandinka,language,"GM,GN,GW,SN",Africa,12.81652333,-15.65394667,mnk,not endangered
 jaha1245,Jahanka,language,"GN,ML",Africa,12.5863,-12.1443,jad,not endangered
 west2500,Western Maninkakan,language,"GM,GN,GW,ML,MR,SN",Africa,13.5677,-12.8009,mlq,not endangered
 xaas1235,Xaasongaxango,language,"GM,ML,SN",Africa,14.1,-10.95,kao,not endangered
@@ -5212,7 +5212,7 @@ ngar1283,Ngarnka,language,AU,Australia,-17.42,134.73,nji,extinct
 wamb1258,Wambayan,language,AU,Australia,-17.496,135.683,wmb,nearly extinct
 misk1235,Mískito,language,"HN,NI",North America,15.1576,-84.2942,miq,not endangered
 caca1247,Cacaopera,language,SV,North America,13.7437,-88.1133,ccr,extinct
-mata1288,Matagalpa,language,NI,North America,13.0333,-86.0,mtn,extinct
+mata1288,Matagalpa,language,NI,North America,13.0333,-86,mtn,extinct
 maya1285,Mayangna,language,"HN,NI",North America,14.1259,-84.3439,yan,shifting
 ulwa1239,Ulwa,language,NI,North America,12.932292,-83.581467,ulw,shifting
 kark1259,Karkin,language,US,North America,38.01944,-122.13417,krb,extinct
@@ -5245,14 +5245,14 @@ texi1237,Texistepec Popoluca,language,MX,North America,17.8926,-94.8076,poq,near
 yeni1236,Yeniche,language,"AT,CH,DE,FR,NL",Eurasia,48.2483,8.47267,yec,shifting
 guri1249,Gurindji Kriol,language,AU,Australia,-17.4484,130.833,gjr,not endangered
 medi1245,Media Lengua,language,EC,South America,-1.04518,-78.5392,mue,threatened
-moch1259,Mochica,language,PE,South America,-8.01667,-79.0,omc,extinct
+moch1259,Mochica,language,PE,South America,-8.01667,-79,omc,extinct
 mola1238,Molale,language,US,North America,44.556,-122.857,mbe,extinct
 molo1262,Molof,language,ID,Papunesia,-3.41946,140.557,msl,shifting
 kone1241,Koneraw,language,ID,Papunesia,-8.37424,138.0675,kdw,shifting
 nucl1452,Mombum,language,ID,Papunesia,-8.27141,138.773,mso,shifting
 momu1241,Momuna,language,ID,Papunesia,-5.04431,139.26,mqf,shifting
 kita1247,Kitan,language,CN,Eurasia,44.3773,115.986,zkt,extinct
-daur1238,Dagur,language,"CN,KZ,MN",Eurasia,48.0,124.0,dta,shifting
+daur1238,Dagur,language,"CN,KZ,MN",Eurasia,48,124,dta,shifting
 midd1351,Middle Mongol,language,MN,Eurasia,48.72618,108.6745,xng,extinct
 mogh1245,Mogholi,language,AF,Eurasia,34.25,62.28,mhj,extinct
 chin1476,China Buriat,language,"CN,MN,RU",Eurasia,48.7593,117.786,bxu,threatened
@@ -5261,7 +5261,7 @@ russ1264,Russia Buriat,language,"MN,RU",Eurasia,50.85331,105.5637,bxr,shifting
 halh1238,Halh Mongolian,language,"MN,RU",Eurasia,48.32397,106.28874,khk,not endangered
 kalm1243,Oirad-Kalmyk-Darkhat,language,"CN,KZ,MN,RU",Eurasia,46.566667,45.316667,xal,threatened
 peri1253,Peripheral Mongolian,language,"CN,MN",Eurasia,42.4208,110.157,mvf,threatened
-kham1281,Khamnigan Mongol,language,"CN,MN,RU",Eurasia,49.0,117.0,ykh,moribund
+kham1281,Khamnigan Mongol,language,"CN,MN,RU",Eurasia,49,117,ykh,moribund
 east2337,East Yugur,language,CN,Eurasia,38.83687,99.61725,yuy,threatened
 bona1250,Bonan,language,CN,Eurasia,35.515,102.01778,peh,shifting
 dong1285,Dongxiang,language,CN,Eurasia,35.66354,103.38952,sce,threatened
@@ -5296,8 +5296,8 @@ alab1237,Alabama,language,US,North America,30.76738,-94.62848,akz,shifting
 apal1237,Apalachee,language,US,North America,30.118,-84.416,xap,extinct
 koas1236,Koasati,language,US,North America,30.4096,-92.709,cku,moribund
 cree1270,Creek,language,US,North America,33.83557,-85.64162,mus,moribund
-mika1239,Mikasuki,language,US,North America,31.5,-84.0,mik,shifting
-chic1270,Chickasaw,language,US,North America,34.0,-88.0,cic,shifting
+mika1239,Mikasuki,language,US,North America,31.5,-84,mik,shifting
+chic1270,Chickasaw,language,US,North America,34,-88,cic,shifting
 choc1276,Choctaw,language,US,North America,32.25,-88.5,cho,threatened
 daww1239,Dâw,language,BR,South America,-0.1177,-67.2934,kwa,shifting
 hupd1244,Hup,language,"BR,CO",South America,0.58622,-69.8359,jup,not endangered
@@ -5389,7 +5389,7 @@ kips1239,Kipsigis,language,KE,Africa,-0.35774,35.258532,sgc,not endangered
 tuge1241,Tugen,language,KE,Africa,0.66573,35.8499,tuy,not endangered
 keiy1238,Keiyo,language,KE,Africa,0.510857,35.226745,eyo,not endangered
 nand1266,Nandi,language,KE,Africa,0.793737,35.408478,niq,not endangered
-teri1244,Terik,language,KE,Africa,0.6,35.0,tec,shifting
+teri1244,Terik,language,KE,Africa,0.6,35,tec,shifting
 kups1238,Kupsabiny,language,"KE,UG",Africa,1.33197,34.5991,kpz,not endangered
 saba1262,Sabaot,language,"KE,UG",Africa,1.01297,34.6664,spy,shifting
 mark1255,Markweeta,language,KE,Africa,1.15018,35.5866,enb,shifting
@@ -5836,7 +5836,7 @@ moni1261,Moni,language,ID,Papunesia,-3.72962,136.886,mnz,threatened
 arik1265,Arikapú,language,BR,South America,-12.4878,-62.7261,ark,extinct
 djeo1235,Djeoromitxí,language,BR,South America,-12.038,-64.6694,jbt,moribund
 acro1239,Acroá,language,BR,South America,-12.20318,-45.08975,acs,extinct
-xakr1238,Xakriabá,language,BR,South America,-19.0,-47.0,xkr,extinct
+xakr1238,Xakriabá,language,BR,South America,-19,-47,xkr,extinct
 xava1240,Xavánte,language,BR,South America,-14.3017,-52.4367,xav,threatened
 xere1240,Xerénte,language,BR,South America,-9.59426,-48.2629,xer,shifting
 apin1244,Apinayé,language,BR,South America,-6.10774,-47.6315,apn,shifting
@@ -5845,7 +5845,7 @@ suya1243,Suyá,language,BR,South America,-11.5178,-53.0743,suy,shifting
 krey1238,Northeastern Timbira,language,BR,South America,-4.199179,-44.8295387,xre,extinct
 cane1242,Central-Southern Timbira,language,BR,South America,-6.10712,-45.1299,ram,shifting
 para1315,Pará Gavião,language,BR,South America,-4.91161,-49.0217,gvp,shifting
-pana1307,Panará,language,BR,South America,-10.58,-53.0,kre,shifting
+pana1307,Panará,language,BR,South America,-10.58,-53,kre,shifting
 kain1272,Kaingang,language,BR,South America,-27.7671,-52.5394,kgp,threatened
 saop1235,São Paulo Kaingáng,language,BR,South America,-21.771882,-50.429849,zkp,extinct
 xokl1240,Xokleng,language,BR,South America,-26.9217,-49.5886,xok,shifting
@@ -6068,9 +6068,9 @@ guya1249,Guyani,language,AU,Australia,-29.7663,137.3943,gvy,extinct
 kaur1267,Kaurna,language,AU,Australia,-34.34966141,138.4800794,zku,extinct
 naru1238,Narungga,language,AU,Australia,-34.69,137.535,nnr,moribund
 nauo1235,Nauo,language,AU,Australia,-33.79661078,135.828014,nwo,extinct
-ngad1257,Ngadjuri,language,AU,Australia,-32.930160660336,139.08123163651,jui,extinct
+ngad1257,Ngadjuri,language,AU,Australia,-32.93016066,139.0812316,jui,extinct
 nugu1241,Nugunu (Australia),language,AU,Australia,-32.6655,138.0567,nnv,extinct
-wira1265,Wirangu,language,AU,Australia,-32.0,134.0,wgu,extinct
+wira1265,Wirangu,language,AU,Australia,-32,134,wgu,extinct
 kara1476,Karadjeri,language,AU,Australia,-18.6771,122.334,gbd,nearly extinct
 mang1383,Mangala,language,AU,Australia,-18.6597,123.769,mem,moribund
 nyan1301,Nyangumarta,language,AU,Australia,-20.6271,121.391,nna,shifting
@@ -6083,7 +6083,7 @@ jaru1254,Jaru,language,AU,Australia,-18.3288,128.262,ddj,shifting
 ngar1288,Ngardi,language,AU,Australia,-21.0231,129.0308,rxd,moribund
 walm1241,Walmajarri-Juwaliny,language,AU,Australia,-19.7229,126.113,wmt,shifting
 waru1265,Warumungu,language,AU,Australia,-20.6479,134.375,wrm,moribund
-mart1256,Martu Wangka,language,AU,Australia,-23.350911655789,123.66842240336,mpj,shifting
+mart1256,Martu Wangka,language,AU,Australia,-23.35091166,123.6684224,mpj,shifting
 wanm1242,Wanman,language,AU,Australia,-22.7078,122.325,wbt,moribund
 kuka1246,Kukatja,language,AU,Australia,-20.3321,127.666,kux,threatened
 pint1250,Pintupi-Luritja,language,AU,Australia,-23.2963,130.643,piu,shifting
@@ -6097,7 +6097,7 @@ pini1245,Lake Carnegie Western Desert,language,AU,Australia,-27.11796,120.56642,
 dyir1250,Dyirbal,language,AU,Australia,-17.4516,145.544,dbl,nearly extinct
 biga1237,Bigambal,language,AU,Australia,-28.266,149.515,xbe,extinct
 yuga1244,Yugambal,language,AU,Australia,-29.54832,151.08455,yub,extinct
-kalk1246,Kalkatungu,language,AU,Australia,-21.0,139.5,ktg,extinct
+kalk1246,Kalkatungu,language,AU,Australia,-21,139.5,ktg,extinct
 yala1262,Yalarnnga,language,AU,Australia,-21.731,139.511,ylr,extinct
 gana1268,Birrdhawal,language,AU,Australia,-37.05,148.93,ihw,extinct
 gana1278,Ganai,language,AU,Australia,-38.58,146.5,unn,extinct
@@ -6122,7 +6122,7 @@ badj1244,Badjirri,language,AU,Australia,-28.79,145.47,jbi,extinct
 kala1380,Bulloo River,language,AU,Australia,-28.136,143.929,gll,extinct
 ngur1261,Wilson River (Grey Range),language,AU,Australia,-27.58,142.45,nbx,extinct
 karr1236,Karruwali,language,AU,Australia,-25.833018,140.026291,rxw,extinct
-dier1241,Dieri,language,AU,Australia,-28.1667,138.0,dif,moribund
+dier1241,Dieri,language,AU,Australia,-28.1667,138,dif,moribund
 ngam1265,Ngamini-Yarluyandi-Karangura,language,AU,Australia,-27.1797,138.701,nmv,extinct
 pirl1238,Pirlatapa,language,AU,Australia,-29.524,139.77,bxi,extinct
 yand1253,Yandruwandha,language,AU,Australia,-28.4744,140.583,ynd,extinct
@@ -6143,7 +6143,7 @@ nyaw1247,Nyawaygi,language,AU,Australia,-18.8743,146.216,nyt,extinct
 wulg1239,Wulguru,language,AU,Australia,-19.85103121,146.3453957,qgu,extinct
 yuru1264,Yuru,language,AU,Australia,-19.836,147.361,ljx,extinct
 ikar1243,Ikaranggal,language,AU,Australia,-15.538,143.349,ikr,extinct
-taga1279,Tagalaka,language,AU,Australia,-18.1973276258,142.96122717197,tgz,extinct
+taga1279,Tagalaka,language,AU,Australia,-18.19732763,142.9612272,tgz,extinct
 kunj1245,Kunjen,language,AU,Australia,-16.6807,143.53,kjn,nearly extinct
 aghu1254,Aghu Tharnggalu,language,AU,Australia,-13.735,142.426,ggr,extinct
 thay1248,Thaypan,language,AU,Australia,-14.8292,143.324,typ,extinct
@@ -6209,7 +6209,7 @@ pini1244,Pinigura,language,AU,Australia,-22.4729,116.538,pnv,extinct
 burd1238,Burduna,language,AU,Australia,-22.9646,114.658,bxn,extinct
 dhal1245,Dhalandji,language,AU,Australia,-22.196,114.937,dhl,nearly extinct
 djiw1241,Djiwarli,language,AU,Australia,-24.10724,116.98858,dze,extinct
-thii1234,Thiin,language,AU,Australia,-23.71156576435,116.68011572516,iin,extinct
+thii1234,Thiin,language,AU,Australia,-23.71156576,116.6801157,iin,extinct
 dhar1247,Dhargari,language,AU,Australia,-24.0601,114.847,dhr,extinct
 wari1262,Wariyangga,language,AU,Australia,-24.353,116.927,wri,extinct
 mart1255,Martuthunira,language,AU,Australia,-20.9294,116.607,vma,extinct
@@ -6237,7 +6237,7 @@ dhur1239,Dhurga,language,AU,Australia,-35.412,150.134,dhu,extinct
 thur1254,Thurawal,language,AU,Australia,-34.634,150.721,tbh,extinct
 sout2771,Southern Coastal Yuin,language,AU,Australia,-37.06227181,149.7169306,xtv,extinct
 kumb1268,Kumbainggar,language,AU,Australia,-29.8189,152.913,kgs,moribund
-yayg1236,Yaygir,language,AU,Australia,-29.686722970453,153.18784362556,xya,extinct
+yayg1236,Yaygir,language,AU,Australia,-29.68672297,153.1878436,xya,extinct
 gure1255,Gureng Gureng,language,AU,Australia,-25.3893,151.175,gnr,extinct
 kabi1260,Kabikabi,language,AU,Australia,-25.44486229,153.1539929,gbw,extinct
 waka1274,Wakawaka,language,AU,Australia,-26.248,151.868,wkw,nearly extinct
@@ -6248,7 +6248,7 @@ yort1237,Yorta Yorta,language,AU,Australia,-35.9,145.01,xyy,extinct
 wath1238,Wathawurrung,language,AU,Australia,-37.68777565,144.1013148,wth,extinct
 woiw1237,Woiwurrung-Thagungwurrung,language,AU,Australia,-37.64264501,145.5879962,wyi,extinct
 bung1264,Bunganditj,language,AU,Australia,-36.5,140.5,xbg,extinct
-warr1257,Warrnambool,language,AU,Australia,-38.155612905976,141.53965852318,gjm,extinct
+warr1257,Warrnambool,language,AU,Australia,-38.15561291,141.5396585,gjm,extinct
 narr1259,Narrinyeri,language,AU,Australia,-36.2301,140.158,nay,extinct
 gami1243,Yuwaalaraay-Gamilaraay,language,AU,Australia,-29.9037,149.543,kld,nearly extinct
 wang1291,Ngiyambaa,language,AU,Australia,-30.6481,146.18,wyb,extinct
@@ -6276,7 +6276,7 @@ cash1251,Cashibo-Cacataibo,language,PE,South America,-8.70232,-75.4206,cbr,shift
 kaxa1239,Kaxararí,language,BR,South America,-9.47288,-66.3329,ktx,shifting
 chac1251,Chácobo,language,BO,South America,-12.133,-66.7164,cao,threatened
 paca1246,Pacahuara,language,BO,South America,-11.9968,-65.5568,pcp,nearly extinct
-pano1255,Panobo,language,PE,South America,-7.16666,-75.0,pno,extinct
+pano1255,Panobo,language,PE,South America,-7.16666,-75,pno,extinct
 sens1242,Sensi,language,PE,South America,-7.24999,-74.9166,sni,extinct
 capa1241,Capanahua,language,PE,South America,-6.63254,-74.3813,kaq,moribund
 ship1254,Shipibo-Conibo,language,PE,South America,-7.17105,-74.8219,shp,threatened
@@ -6332,7 +6332,7 @@ onin1237,Onin Pidgin,language,ID,Papunesia,-2.83,132.083,onx,extinct
 ling1242,Mediterranean Lingua Franca,language,TN,Africa,33.8613,10.8531,pml,extinct
 sett1235,KiSetla,language,ZM,Africa,-15.6067,28.6923,sta,extinct
 ndyu1241,Ndyuka-Trio Pidgin,language,SR,South America,2.94789,-56.0182,njt,extinct
-fana1235,Fanagalo,language,"CD,NA,ZA,ZM,ZW",Africa,-25.384842,27.1400833333,fng,extinct
+fana1235,Fanagalo,language,"CD,NA,ZA,ZM,ZW",Africa,-25.384842,27.14008333,fng,extinct
 pira1253,Pirahã,language,BR,South America,-6.77713,-61.8167,myp,threatened
 nort2967,Northeastern Russian River Pomo,language,US,North America,39.2894,-122.509,pef,extinct
 east2545,Eastern Pomo,language,US,North America,38.5647,-122.586,peb,extinct
@@ -6511,7 +6511,7 @@ shas1239,Shasta,language,US,North America,41.7587,-122.738,sht,extinct
 shom1245,Shom Peng,language,IN,Eurasia,7.02099,93.8064,sii,shifting
 siam1242,Siamou,language,"BF,CI,ML",Africa,10.998,-4.92143,sif,not endangered
 arme1259,Baraninsky Armenian Sign Language,language,AM,Eurasia,40.1002,44.4767,aen,not endangered
-aust1253,Australian Aborigines Sign Language,language,AU,Australia,-25.0,135.0,asw,threatened
+aust1253,Australian Aborigines Sign Language,language,AU,Australia,-25,135,asw,threatened
 mona1241,Monastic Sign Language,language,VA,Eurasia,41.9026,12.452,mzg,
 plai1235,Plains Indian Sign Language,language,"CA,US",North America,38.3941,-99.2499,psd,nearly extinct
 adam1238,Adamorobe Sign Language,language,GH,Africa,5.834,-0.151,ads,shifting
@@ -6531,7 +6531,7 @@ beng1239,Kata Kolok,language,ID,Papunesia,-8.383,115.098,bqy,shifting
 bhut1234,Bhutanese Sign Language,language,BT,Eurasia,27.48405,89.33058,dyl,not endangered
 brib1244,Bribri Sign Language,language,CR,North America,9.4,-83.05,rib,shifting
 brun1247,Brunca Sign Language,language,CR,North America,9.978549,-84.821363,rnb,shifting
-aust1271,Auslan,language,AU,Australia,-30.0,145.0,asf,shifting
+aust1271,Auslan,language,AU,Australia,-30,145,asf,shifting
 papu1255,Papua New Guinean Sign Language,language,PG,Papunesia,-9.5,147.116667,pgz,not endangered
 solo1262,Solomon Islands Sign Language,language,SB,Papunesia,-9.453975,159.966938,szs,not endangered
 brit1235,British Sign Language,language,GB,Eurasia,51.6688,-0.4431,bfi,threatened
@@ -6592,7 +6592,7 @@ boli1236,Bolivian Sign Language,language,BO,South America,-16.38949,-67.57823,bv
 colo1249,Colombian Sign Language,language,CO,South America,5.33532,-75.4464,csn,threatened
 ecua1243,Ecuadorian Sign Language,language,EC,South America,-1.24999,-79.1666,ecs,not endangered
 peru1235,Peruvian Sign Language,language,PE,South America,-11.9008,-76.8213,prl,shifting
-braz1236,Brazilian Sign Language,language,BR,South America,-15.5,-48.0,bzs,not endangered
+braz1236,Brazilian Sign Language,language,BR,South America,-15.5,-48,bzs,not endangered
 bulg1240,Bulgarian Sign Language,language,BG,Eurasia,42.7918,25.0026,bqn,not endangered
 aust1252,Austrian Sign Language,language,AT,Eurasia,48.1197,16.225,asq,not endangered
 czec1253,Czech Sign Language,language,CZ,Eurasia,50.012,14.4774,cse,threatened
@@ -6603,7 +6603,7 @@ roma1324,Romanian Sign Language,language,RO,Eurasia,44.9292,26.2924,rms,not enda
 lang1248,Langue des signes de Belgique Francophone,language,BE,Eurasia,50.8021,4.31312,sfb,not endangered
 vlaa1235,Vlaamse Gebarentaal,language,BE,Eurasia,50.8021,4.31312,vgt,shifting
 dutc1253,Dutch Sign Language,language,NL,Eurasia,52.1251,4.91133,dse,threatened
-fren1243,French Sign Language,language,"FR,TG",Eurasia,47.0,3.0,fsl,not endangered
+fren1243,French Sign Language,language,"FR,TG",Eurasia,47,3,fsl,not endangered
 gree1271,Greek Sign Language,language,GR,Eurasia,38.0536,23.3762,gss,not endangered
 iris1235,Irish Sign Language,language,IE,Eurasia,53.315,-6.36541,isg,not endangered
 ital1275,Italian Sign Language,language,IT,Eurasia,42.72915,12.42949,ise,not endangered
@@ -6621,7 +6621,7 @@ mala1549,Malawian Sign Language,language,MW,Africa,,,lws,not endangered
 malt1238,Maltese Sign Language,language,MT,Eurasia,35.907,14.4824,mdl,not endangered
 mard1245,Mardin Sign Language,language,TR,Eurasia,37.316667,40.737778,dsz,moribund
 maur1240,Mauritian Sign Language,language,MU,Africa,-20.166667,57.516667,lsy,not endangered
-yuca1236,Yucatec Maya Sign Language,language,MX,North America,20.5,-89.0,msd,shifting
+yuca1236,Yucatec Maya Sign Language,language,MX,North America,20.5,-89,msd,shifting
 miri1273,Miriwoong Sign Language,language,AU,Australia,-15.77361,128.73861,rsm,moribund
 miya1268,Miyakubo Sign Language,language,JP,Eurasia,34.178195,133.074929,ehs,not endangered
 moza1235,Mozambican Sign Language,language,MZ,Africa,-19.811,34.613,mzy,not endangered
@@ -6639,7 +6639,7 @@ port1277,Portuguese Sign Language,language,PT,Eurasia,38.5474,-8.53355,psr,shift
 prov1243,Providencia Sign Language,language,CO,North America,13.348416,-81.373888,prz,shifting
 esto1238,Estonian Sign Language,language,EE,Eurasia,58.947,24.566,eso,shifting
 mold1243,Moldova Sign Language,language,MD,Eurasia,47.107,28.694,vsi,not endangered
-russ1255,Russian-Tajik Sign Language,language,"BG,RU",Eurasia,56.0,44.0,rsl,not endangered
+russ1255,Russian-Tajik Sign Language,language,"BG,RU",Eurasia,56,44,rsl,not endangered
 ukra1235,Ukrainian Sign Language,language,UA,Eurasia,50.4111,30.553,ukl,not endangered
 lith1236,Lithuanian Sign Language,language,LT,Eurasia,55.2487,23.8814,lls,not endangered
 mong1264,Mongolian Sign Language,language,MN,Eurasia,48.6852,107.528,msr,not endangered
@@ -6750,7 +6750,7 @@ kokb1239,Kok Borok,language,"BD,IN",Eurasia,23.1916,91.4673,trp,threatened
 tipp1239,Tippera,language,"BD,IN",Eurasia,23.5864,92.0747,tpe,not endangered
 rian1262,Riang (India),language,"BD,IN",Eurasia,23.6803,92.0321,ria,shifting
 usui1238,Usui,language,"BD,IN,MM",Eurasia,23.0131,91.7879,usi,not endangered
-bodo1269,Bodo-Mech,language,"IN,NP",Eurasia,26.1,92.0,brx,threatened
+bodo1269,Bodo-Mech,language,"IN,NP",Eurasia,26.1,92,brx,threatened
 kach1279,Kachari,language,IN,Eurasia,26.6882,92.317,xac,shifting
 tiwa1253,Tiwa (India),language,IN,Eurasia,26.0667,92.2583,lax,threatened
 garo1247,Garo,language,"BD,IN",Eurasia,25.2954,90.462,grt,threatened
@@ -6805,11 +6805,11 @@ akeu1235,Akeu,language,"CN,LA,MM,TH",Eurasia,22.1959,101.0823,aeu,shifting
 akha1245,Akha,language,"CN,LA,MM,TH,VN",Eurasia,21.2309,100.964,ahk,not endangered
 chep1243,Chepya,language,"CN,LA",Eurasia,22.1749,101.7501,ycp,shifting
 muda1235,Muda,language,CN,Eurasia,21.95,100.6,ymd,shifting
-hani1248,Hani,language,"CN,LA,VN",Eurasia,22.67753,102.851673333,hni,not endangered
+hani1248,Hani,language,"CN,LA,VN",Eurasia,22.67753,102.8516733,hni,not endangered
 honi1244,Honi,language,CN,Eurasia,23.2074,101.886,how,not endangered
 phan1254,Phana',language,"CN,LA",Eurasia,21.9387,101.978,phq,shifting
 sila1247,Sila,language,"CN,LA,VN",Eurasia,21.6888,102.134,slt,shifting
-buyu1238,Buyuan Jinuo,language,CN,Eurasia,22.0,101.08,jiy,shifting
+buyu1238,Buyuan Jinuo,language,CN,Eurasia,22,101.08,jiy,shifting
 youl1235,Youle Jinuo,language,CN,Eurasia,22.0473,101.057,jiu,moribund
 kuco1235,Kucong,language,"CN,VN",Eurasia,22.26,101.25,lkc,threatened
 lahu1252,Lahu Shi,language,"CN,LA,MM,TH",Eurasia,21.2078,100.97,lhi,not endangered
@@ -6831,7 +6831,7 @@ west1506,Western Lalu,language,CN,Eurasia,24.73,98.9,ywl,threatened
 xish1235,Xishanba Lalo,language,CN,Eurasia,24.8709,100.711,ywt,threatened
 dong1286,Dongshanba Lalo,language,CN,Eurasia,25.435,100.178,yik,threatened
 east2696,Eastern Lalu,language,CN,Eurasia,23.585,101.546,yit,threatened
-talu1238,Lavu-Yongsheng-Talu,language,CN,Eurasia,26.4,101.0,yta,threatened
+talu1238,Lavu-Yongsheng-Talu,language,CN,Eurasia,26.4,101,yta,threatened
 lisu1250,Lisu,language,"CN,IN,MM,TH",Eurasia,26.91,98.94,lis,not endangered
 nalu1239,Naluo Yi,language,CN,Eurasia,25.97,102.598,ylo,threatened
 tang1372,Tanglang-Toloza,language,CN,Eurasia,26.9,99.9,ytl,shifting
@@ -6859,17 +6859,17 @@ awuu1235,Southern Awu (Lope),language,CN,Eurasia,25.395,103.306,yiu,threatened
 gepo1234,Gepo,language,CN,Eurasia,25.7,102.5,ygp,not endangered
 same1240,Samei,language,CN,Eurasia,25.0756,103.0133,smh,shifting
 sani1265,Sanie,language,CN,Eurasia,25.2,102.12,ysy,moribund
-ayiz1244,Ayizi,language,CN,Eurasia,25.0,103.7,yyz,nearly extinct
+ayiz1244,Ayizi,language,CN,Eurasia,25,103.7,yyz,nearly extinct
 ches1238,Chesu,language,CN,Eurasia,24.05,101.98,ych,shifting
 wudi1238,Wuding-Luquan Yi,language,CN,Eurasia,25.48,102.48,ywq,shifting
 wume1235,Wumeng Nasu,language,CN,Eurasia,27.574,103.646,ywu,threatened
 wusa1235,Wusa Nasu,language,CN,Eurasia,25.7707,102.367,yig,not endangered
 sich1238,Sichuan Yi,language,CN,Eurasia,28.1947,102.121,iii,not endangered
-aluo1235,Aluo,language,CN,Eurasia,26.0,102.0,yna,shifting
+aluo1235,Aluo,language,CN,Eurasia,26,102,yna,shifting
 ache1244,Ache,language,CN,Eurasia,24.152,102.446,yif,threatened
-alug1235,Alugu,language,CN,Eurasia,23.0,103.0,aub,not endangered
+alug1235,Alugu,language,CN,Eurasia,23,103,aub,not endangered
 phup1237,Phupha,language,CN,Eurasia,22.95,102.3,yph,threatened
-phup1239,Phupa,language,CN,Eurasia,23.0,103.4,ypp,threatened
+phup1239,Phupa,language,CN,Eurasia,23,103.4,ypp,threatened
 phuz1235,Phuza,language,CN,Eurasia,23.05,103.4,ypz,threatened
 phal1256,Phala,language,CN,Eurasia,23.354,102.505,ypa,threatened
 alop1235,Alo Phola,language,CN,Eurasia,23.59,101.933,ypo,threatened
@@ -6887,7 +6887,7 @@ mant1265,Mantsi,language,VN,Eurasia,23.1829,105.405,nty,shifting
 ugon1239,Ugong,language,TH,Eurasia,14.93951,99.32287,ugo,nearly extinct
 ersu1241,Ersu,language,CN,Eurasia,29.2867,102.213,ers,shifting
 guiq1238,Guiqiong,language,CN,Eurasia,30.4803,102.128,gqi,shifting
-naxi1245,Naxi,language,CN,Eurasia,27.5,100.0,nxq,not endangered
+naxi1245,Naxi,language,CN,Eurasia,27.5,100,nxq,not endangered
 yong1270,Narua,language,CN,Eurasia,27.8,100.9,nru,shifting
 namu1246,Namuyi,language,CN,Eurasia,28.5909,101.898,nmy,shifting
 shix1238,Shixing,language,CN,Eurasia,28.3895,100.4,sxg,shifting
@@ -6919,7 +6919,7 @@ gama1251,Gamale Kham,language,NP,Eurasia,28.411,82.6749,kgj,threatened
 east2354,Eastern Parbate Kham,language,NP,Eurasia,28.5259,82.9523,kif,threatened
 west2420,Western Parbate Kham,language,NP,Eurasia,28.6521,82.7348,kjl,not endangered
 shes1236,Sheshi Kham,language,NP,Eurasia,27.9437,82.6467,kip,shifting
-east2352,Eastern Magar,language,"IN,NP",Eurasia,27.4135166667,87.06171,mgp,shifting
+east2352,Eastern Magar,language,"IN,NP",Eurasia,27.41351667,87.06171,mgp,shifting
 west2418,Western Magar,language,NP,Eurasia,28.2462,83.511,mrd,shifting
 jeru1240,Jerung,language,NP,Eurasia,27.1741,86.2547,jee,shifting
 wamb1257,Wambule,language,NP,Eurasia,27.14808,86.47646,wme,threatened
@@ -6999,9 +6999,9 @@ para1302,Jejara Naga,language,"IN,MM",Eurasia,25.48,94.92,pzn,threatened
 yimc1240,Yimchungru Naga,language,IN,Eurasia,25.7675,94.8087,yim,threatened
 amri1238,Amri Karbi,language,IN,Eurasia,26.024,91.482,ajz,threatened
 karb1241,Hills Karbi,language,IN,Eurasia,25.7317,93.0462,mjw,not endangered
-bawm1236,Bawm Chin,language,"BD,IN,MM",Eurasia,22.4405233333,92.92553,bgr,threatened
+bawm1236,Bawm Chin,language,"BD,IN,MM",Eurasia,22.44052333,92.92553,bgr,threatened
 bual1235,Bualkhaw Chin,language,MM,Eurasia,22.91,93.68,cbl,not endangered
-fala1243,Falam Chin,language,"BD,IN,MM",Eurasia,23.7892833333,92.3254633333,cfm,threatened
+fala1243,Falam Chin,language,"BD,IN,MM",Eurasia,23.78928333,92.32546333,cfm,threatened
 haka1240,Haka Chin,language,"BD,IN,MM",Eurasia,22.8735,92.8208,cnh,shifting
 darl1242,Darlong,language,"BD,IN",Eurasia,23.992,91.3339,dln,not endangered
 biet1238,Biete,language,IN,Eurasia,24.273507,92.94342,biu,threatened
@@ -7031,7 +7031,7 @@ tara1313,Tarao,language,IN,Eurasia,24.4003,94.1703,tro,shifting
 rang1267,Halam,language,IN,Eurasia,23.819438,91.66491,rnl,nearly extinct
 saka1283,Sakachep-Chorei,language,IN,Eurasia,25.994,93.949,sch,not endangered
 east2779,Eastern Khumi Chin,language,MM,Eurasia,21.3425,93.155,cek,not endangered
-khum1248,Khumi Chin,language,"BD,IN,MM",Eurasia,22.87125,92.9894633333,cnk,not endangered
+khum1248,Khumi Chin,language,"BD,IN,MM",Eurasia,22.87125,92.98946333,cnk,not endangered
 mroc1235,Mro Chin,language,MM,Eurasia,19.71,93.995,cmr,threatened
 gang1266,Gangte,language,"IN,MM",Eurasia,24.5113,94.1681,gnb,threatened
 vaip1239,Vaiphei,language,IN,Eurasia,24.1378,93.7195,vap,threatened
@@ -7087,7 +7087,7 @@ raut1239,Raute,language,"IN,NP",Eurasia,28.9518,81.1617,rau,threatened
 rawa1264,Rawat,language,"IN,NP",Eurasia,30.0742,80.8005,jnl,shifting
 lite1248,Classical Chinese,language,CN,Eurasia,34.09,109.05,lzh,extinct
 ganc1239,Gan Chinese,language,CN,Eurasia,27.9896,115.166,gan,not endangered
-hakk1236,Hakka Chinese,language,"CN,TW",Eurasia,25.0,116.0,hak,not endangered
+hakk1236,Hakka Chinese,language,"CN,TW",Eurasia,25,116,hak,not endangered
 midd1344,Middle Chinese,language,CN,Eurasia,34.27,108.9,ltc,extinct
 jiny1235,Jinyu Chinese,language,CN,Eurasia,38.8284,111.278,cjy,not endangered
 mand1415,Mandarin Chinese,language,"CN,KP,LA,MM,MN,RU,TW,VN",Eurasia,40.0209,116.228,cmn,not endangered
@@ -7098,8 +7098,8 @@ wuch1236,Wu Chinese,language,CN,Eurasia,29.8621,119.682,wuu,not endangered
 xian1251,Xiang Chinese,language,CN,Eurasia,27.66847,111.47112,hsn,not endangered
 nort3268,Northern Pinghua,language,CN,Eurasia,25.218,110.045,cnp,not endangered
 sout3250,Southern Pinghua,language,CN,Eurasia,23.011,108.093,csp,not endangered
-yuec1235,Yue Chinese,language,"CN,VN",Eurasia,23.0,113.0,yue,not endangered
-mind1253,Min Dong Chinese,language,CN,Eurasia,26.0,119.5,cdo,not endangered
+yuec1235,Yue Chinese,language,"CN,VN",Eurasia,23,113,yue,not endangered
+mind1253,Min Dong Chinese,language,CN,Eurasia,26,119.5,cdo,not endangered
 puxi1243,Pu-Xian Chinese,language,CN,Eurasia,25.37,118.68,cpx,not endangered
 minn1241,Min Nan Chinese,language,"CN,TW",Eurasia,24.5,118.17,nan,not endangered
 hain1238,Hainanese,language,CN,Eurasia,19.78383,110.68759,hnm,threatened
@@ -7111,17 +7111,17 @@ oldc1244,Old Chinese,language,CN,Eurasia,36.12,114.32,och,extinct
 waxi1236,Waxianghua,language,CN,Eurasia,28.644,110.362,wxa,threatened
 cata1286,Catawba,language,US,North America,34.9685,-80.8857,chc,extinct
 wocc1242,Woccon,language,US,North America,35.379075,-77.985987,xwc,extinct
-mand1446,Mandan,language,US,North America,46.83,-101.0,mhq,extinct
+mand1446,Mandan,language,US,North America,46.83,-101,mhq,extinct
 crow1244,Crow,language,US,North America,45.368,-107.874,cro,shifting
-hida1246,Hidatsa,language,US,North America,47.33,-102.0,hid,nearly extinct
+hida1246,Hidatsa,language,US,North America,47.33,-102,hid,nearly extinct
 assi1247,Assiniboine,language,"CA,US",North America,49.2923,-106.068,asb,shifting
 ston1242,Stoney,language,CA,North America,51.1939,-114.984,sto,shifting
 dako1258,Dakota,language,"CA,US",North America,45.86,-96.58,dak,shifting
 lako1247,Lakota,language,"CA,US",North America,46.3699,-103.95,lkt,shifting
 omah1247,Omaha-Ponca,language,US,North America,42.0944,-96.5295,oma,moribund
-kans1243,Kansa,language,US,North America,39.0,-94.4,ksk,extinct
+kans1243,Kansa,language,US,North America,39,-94.4,ksk,extinct
 osag1243,Osage,language,US,North America,36.7828,-96.2949,osa,extinct
-quap1242,Quapaw,language,US,North America,34.15,-92.0,qua,extinct
+quap1242,Quapaw,language,US,North America,34.15,-92,qua,extinct
 hoch1243,Ho-Chunk,language,US,North America,43.5,-88.5,win,shifting
 iowa1245,Iowa-Oto,language,US,North America,40.0511,-95.5213,iow,extinct
 bilo1248,Biloxi,language,US,North America,31.32,-89.1951,bll,extinct
@@ -7237,7 +7237,7 @@ taid1248,Tai Do-Mene-Yo,language,"LA,VN",Eurasia,19.1801,104.938,tyj,threatened
 taip1250,Tai Pao,language,LA,Eurasia,18.5562,104.658,tpo,threatened
 tayt1241,Tày Tac,language,VN,Eurasia,21.3831,104.008,tyt,not endangered
 padi1241,Pa Di,language,"CN,VN",Eurasia,26.3112,103.486,pdi,shifting
-taid1250,Tai Dón,language,"CN,LA,VN",Eurasia,21.84898,103.570496667,twh,not endangered
+taid1250,Tai Dón,language,"CN,LA,VN",Eurasia,21.84898,103.5704967,twh,not endangered
 tait1248,Tai Thanh,language,"LA,VN",Eurasia,19.66,104.933,tmm,not endangered
 kuan1246,Kuan,language,LA,Eurasia,18.0769,105.31,uan,threatened
 ahom1240,Ahom,language,IN,Eurasia,27.04023,94.32671,aho,extinct
@@ -7256,28 +7256,28 @@ taiy1242,Tai Ya,language,CN,Eurasia,23.569,101.899,cuu,not endangered
 khun1259,Khün,language,"LA,MM,TH",Eurasia,19.6062,99.3363,kkh,not endangered
 nort2740,Northern Thai,language,"LA,MM,TH",Eurasia,18.857495,100.20739,nod,not endangered
 tayk1238,Tay Khang,language,LA,Eurasia,18.6624,104.367,tnu,shifting
-laoo1244,Lao,language,"KH,LA,TH",Eurasia,19.0,102.46,lao,not endangered
+laoo1244,Lao,language,"KH,LA,TH",Eurasia,19,102.46,lao,not endangered
 nort2741,Northeastern Thai,language,"KH,LA,TH",Eurasia,16.03,103.67,tts,not endangered
 yoyy1238,Yoy,language,"LA,TH",Eurasia,17.6215,104.785,yoy,shifting
 sout2746,Southern Thai,language,"MM,MY,TH",Eurasia,6.85668,99.7031,sou,not endangered
 thai1261,Thai,language,"KH,MM,TH",Eurasia,14.192,100.671,tha,not endangered
 phua1239,Phuan,language,"LA,TH",Eurasia,17.5207,102.191,phu,shifting
-phut1244,Phu Thai,language,"LA,TH,VN",Eurasia,17.7544966667,104.684233333,pht,not endangered
+phut1244,Phu Thai,language,"LA,TH,VN",Eurasia,17.75449667,104.6842333,pht,not endangered
 tays1238,Tày Sa Pa,language,VN,Eurasia,22.295,103.805,tys,threatened
 tayy1238,Tày,language,"CN,VN",Eurasia,21.6448,106.167,tyz,threatened
 tsun1242,Ts'ün-Lao,language,"LA,VN",Eurasia,21.3616,102.926,tsl,not endangered
 bouy1240,Bouyei,language,"CN,VN",Eurasia,24.8484,106.187,pcc,not endangered
 guib1245,Guibei Zhuang,language,CN,Eurasia,24.9,108.1,zgb,not endangered
 liuq1235,Liuqian Zhuang,language,CN,Eurasia,24.1,109.75,zlq,threatened
-cent2009,Central Hongshuihe Zhuang,language,CN,Eurasia,23.95,108.0,zch,not endangered
-east2363,Eastern Hongshuihe Zhuang,language,CN,Eurasia,23.7,109.0,zeh,not endangered
+cent2009,Central Hongshuihe Zhuang,language,CN,Eurasia,23.95,108,zch,not endangered
+east2363,Eastern Hongshuihe Zhuang,language,CN,Eurasia,23.7,109,zeh,not endangered
 lian1252,Lianshan Zhuang,language,CN,Eurasia,24.5,112.05,zln,moribund
 liuj1238,Liujiang Zhuang,language,CN,Eurasia,24.2,109.25,zlj,not endangered
 eeee1240,E,language,CN,Eurasia,24.7262,109.063,eee,threatened
 guib1244,Guibian Zhuang,language,CN,Eurasia,24.3,106.2,zgn,not endangered
 qiub1238,Qiubei Zhuang,language,CN,Eurasia,24.15,104.15,zqe,not endangered
 youj1238,Youjiang Zhuang,language,CN,Eurasia,23.75,106.9,zyj,not endangered
-yong1275,Yongnan Zhuang,language,"CN,VN",Eurasia,22.8,108.0,zyn,not endangered
+yong1275,Yongnan Zhuang,language,"CN,VN",Eurasia,22.8,108,zyn,not endangered
 yong1276,Yongbei Zhuang,language,CN,Eurasia,23.1,108.15,zyb,not endangered
 zuoj1238,Zuojiang Zhuang,language,"CN,VN",Eurasia,22.4,106.9,zzj,not endangered
 saek1240,Saek,language,"LA,TH",Eurasia,17.4558,104.787,skb,shifting
@@ -7297,7 +7297,7 @@ take1257,Takelma,language,US,North America,42.423,-123.452,tkm,extinct
 mara1396,Mararit,language,TD,Africa,14.087,21.6408,mgb,not endangered
 assa1269,Assangori,language,"SD,TD",Africa,13.9592,22.6393,sjg,threatened
 tama1331,Tama (Chad),language,"SD,TD",Africa,14.332,21.9951,tma,not endangered
-tamb1257,Tambora,language,ID,Papunesia,-8.25,118.0,xxt,extinct
+tamb1257,Tambora,language,ID,Papunesia,-8.25,118,xxt,extinct
 tana1288,Tanahmerah,language,ID,Papunesia,-2.5523,133.18,tcm,shifting
 lard1243,Lardil,language,AU,Australia,-16.56152,139.4343,lbz,nearly extinct
 gang1267,Ganggalida,language,AU,Australia,-17.5446,139.426,gcd,extinct
@@ -7434,7 +7434,7 @@ jora1240,Jorá,language,BO,South America,-15.7492,-63.2094,jor,extinct
 siri1273,Sirionó,language,BO,South America,-15.5298,-63.9688,srq,nearly extinct
 yuqu1240,Yuqui,language,BO,South America,-16.7875,-64.9438,yuq,shifting
 nhen1239,Nhengatu,language,"BR,CO,VE",South America,1.04503,-66.9646,yrl,shifting
-coca1259,Cocama-Cocamilla,language,"BR,CO,PE",South America,-4.5,-74.0,cod,nearly extinct
+coca1259,Cocama-Cocamilla,language,"BR,CO,PE",South America,-4.5,-74,cod,nearly extinct
 omag1248,Omagua,language,"BR,PE",South America,-3.526,-69.1667,omg,extinct
 tupi1273,Tupinambá,language,BR,South America,-22.807778,-42.106389,tpn,extinct
 aman1266,Amanayé,language,BR,South America,-3.79772,-48.6613,ama,extinct
@@ -7446,7 +7446,7 @@ para1312,Parakanã,language,BR,South America,-4.64681,-50.0621,pak,shifting
 suru1261,Suruí Do Pará,language,BR,South America,-5.9271,-48.588,mdz,shifting
 toca1235,Tocantins Asurini,language,BR,South America,-3.59359,-49.8991,asu,shifting
 temb1276,Tenetehara,language,BR,South America,-2.6123,-48.2359,tqb,moribund
-turi1247,Turiwára,language,BR,South America,-2.0,-49.5,twt,extinct
+turi1247,Turiwára,language,BR,South America,-2,-49.5,twt,extinct
 apia1248,Apiaká,language,BR,South America,-7.84711,-57.91,api,extinct
 amun1246,Amundava,language,BR,South America,-9.04023,-62.3064,adw,threatened
 urue1240,Uru-Eu-Wau-Wau,language,BR,South America,-10.9176,-63.8086,urz,shifting
@@ -7487,13 +7487,13 @@ chuv1255,Chuvash,language,"EE,KZ,RU",Eurasia,55.48701,47.16298,chv,threatened
 bash1264,Bashkir,language,"KZ,RU,UA",Eurasia,53.59671,56.55937,bak,threatened
 tata1255,Tatar,language,"AZ,BY,CN,EE,FI,GE,KZ,LT,LV,RU,UA",Eurasia,55.79592,49.11577,tat,not endangered
 sibe1250,Siberian Tatar,language,RU,Eurasia,57.4921,72.5642,sty,not endangered
-crim1257,Crimean Tatar,language,"BG,KG,LT,MD,RO,RU,TR,UA,UZ",Eurasia,45.0,34.08,crh,threatened
+crim1257,Crimean Tatar,language,"BG,KG,LT,MD,RO,RU,TR,UA,UZ",Eurasia,45,34.08,crh,threatened
 krym1236,Krymchak,language,"BG,GE,RO,UA",Eurasia,45.05543,34.55619,jct,nearly extinct
 urum1249,Kipchak Urum,language,"GE,GR,RU,UA",Eurasia,42.0379,43.994,uum,shifting
 kara1464,Karaim,language,"LT,UA",Eurasia,54.5534,25.1054,kdr,nearly extinct
 kara1465,Karachay-Balkar,language,"AZ,GE,KZ,RU",Eurasia,43.565,42.2606,krc,threatened
-kumy1244,Kumyk,language,"KZ,RU",Eurasia,43.0,47.0,kum,threatened
-kirg1245,Kirghiz,language,"AF,CN,KG,KZ,TJ,UZ",Eurasia,42.0,74.0,kir,not endangered
+kumy1244,Kumyk,language,"KZ,RU",Eurasia,43,47,kum,threatened
+kirg1245,Kirghiz,language,"AF,CN,KG,KZ,TJ,UZ",Eurasia,42,74,kir,not endangered
 sout2694,Southern Altai,language,"CN,KZ,MN,RU",Eurasia,50.1347,86.8705,alt,shifting
 kara1467,Kara-Kalpak,language,"AF,KG,KZ,TM,UZ",Eurasia,39.98005,63.32233,kaa,not endangered
 kaza1248,Kazakh,language,"AF,CN,IR,KG,KZ,MN,RU,TJ,TM,UZ",Eurasia,51.17,71.454,kaz,not endangered
@@ -7543,7 +7543,7 @@ kaiv1238,Kaivi,language,NG,Africa,10.4328,8.10795,kce,shifting
 mala1471,Mala (Nigeria),language,NG,Africa,10.5776,8.09838,ruy,shifting
 nshi1235,Nshi,language,NG,Africa,7.22,10.58,nsc,not endangered
 ruma1250,Ruma,language,NG,Africa,10.571,8.21883,ruz,shifting
-shuw1238,Shuwa-Zamani,language,NG,Africa,12.25,14.0,ksa,threatened
+shuw1238,Shuwa-Zamani,language,NG,Africa,12.25,14,ksa,threatened
 tumi1238,Tumi,language,NG,Africa,10.5113,8.10378,kku,shifting
 vono1238,Vono,language,NG,Africa,10.4357,8.20774,kch,threatened
 ware1252,Ware,language,TZ,Africa,,,wre,extinct
@@ -7552,7 +7552,7 @@ taya1256,Tayabas Ayta near Lucena City in Western Quezon,language,PH,Papunesia,1
 vill1242,Villa Viciosa Agta,language,PH,Papunesia,17.471,120.638,dyg,extinct
 barb1242,Barbacoas,language,CO,South America,1.5206,-78.4834,bpb,extinct
 kara1475,Karahawyana,language,BR,South America,-1.29991,-57.8716,xkh,
-arma1244,Arma,language,CO,South America,2.03332,-76.0,aoh,extinct
+arma1244,Arma,language,CO,South America,2.03332,-76,aoh,extinct
 runa1235,Runa,language,CO,South America,2.74999,-76.5,rna,extinct
 agar1251,Agariya,language,IN,Eurasia,24.5024,82.297,agi,not endangered
 naga1399,Nagarchal,language,IN,Eurasia,25.5399,75.8519,nbg,extinct
@@ -7571,7 +7571,7 @@ yala1242,Yalakalore,language,BR,South America,-13.2396,-59.9925,xyl,extinct
 palu1237,Palumata,language,ID,Papunesia,-3.024,128.762,pmc,extinct
 wikk1239,Wik-Keyangan,language,AU,Australia,-14.2649,142.005,wif,extinct
 pank1235,Pankararé,language,BR,South America,-9.08332,-39.6667,pax,extinct
-papa1263,Papavô,language,BR,South America,-9.5,-72.0,ppv,
+papa1263,Papavô,language,BR,South America,-9.5,-72,ppv,
 pisa1244,Pisabo,language,"BR,PE",South America,-6.32551,-73.3411,pig,shifting
 shin1267,Shinabo,language,BO,South America,-14.3798,-62.3404,snh,
 xipi1238,Xipináwa,language,BR,South America,-8.22,-72.39,xip,extinct
@@ -7579,7 +7579,7 @@ rerb1235,Rer Bare,language,ET,Africa,4.11661,41.7065,rer,extinct
 sent1241,Sentinel,language,IN,Eurasia,11.553,92.2534,std,threatened
 ware1254,Wares,language,ID,Papunesia,-2.47357,139.337,wai,shifting
 trem1235,Tremembé,language,BR,South America,-3.09359,-40.204,tme,extinct
-truk1242,Truká,language,BR,South America,-8.49999,-39.0,tka,extinct
+truk1242,Truká,language,BR,South America,-8.49999,-39,tka,extinct
 more1262,Morerebi,language,BR,South America,-8.66822,-61.3858,xmo,threatened
 tuku1240,Tukumanféd,language,BR,South America,-11.518,-61.42,tkf,extinct
 ngur1260,Ngurmbur,language,AU,Australia,-12.6483,132.508,nrx,extinct
@@ -7597,7 +7597,7 @@ eteo1236,Eteocretan,language,GR,Eurasia,,,ecr,extinct
 eteo1240,Eteocypriot,language,CY,Eurasia,34.72103,33.1189,ecy,extinct
 gail1235,Gail,language,ZA,Africa,-28.77,26.895,gic,extinct
 hait1241,Haitian Vodoun Culture Language,language,HT,North America,18.911,-72.394,hvc,extinct
-illy1234,Illyrian,language,AL,Eurasia,43.0,18.0,xil,extinct
+illy1234,Illyrian,language,AL,Eurasia,43,18,xil,extinct
 kaim1235,Kaimbé,language,BR,South America,-10.4795944,-39.0262926,xai,extinct
 kamb1239,Kambiwá,language,BR,South America,-8.6093993,-36.5993292,xbw,extinct
 kapi1248,Kapinawá,language,BR,South America,-8.49999,-38.3333,xpn,extinct
@@ -7637,8 +7637,8 @@ kare1335,Karelian,language,"FI,RU",Eurasia,65.1691,30.8655,krl,shifting
 finn1318,Finnish,language,"EE,FI,NO,RU,SE",Eurasia,64.7628,25.5577,fin,not endangered
 kven1236,Kven Finnish,language,"FI,NO,RU",Eurasia,70.31894,25.56202,fkv,moribund
 torn1244,Meänkieli,language,"FI,SE",Eurasia,67.2527,23.066,fit,moribund
-sout2679,South Estonian,language,EE,Eurasia,57.85,27.0,vro,shifting
-hung1274,Hungarian,language,"AT,HR,HU,RO,RS,SI,SK,UA",Eurasia,46.9068585714,19.6555271429,hun,not endangered
+sout2679,South Estonian,language,EE,Eurasia,57.85,27,vro,shifting
+hung1274,Hungarian,language,"AT,HR,HU,RO,RS,SI,SK,UA",Eurasia,46.90685857,19.65552714,hun,not endangered
 oldh1242,Old Hungarian,language,HU,Eurasia,47.46,18.99,ohu,extinct
 khan1273,Kazym-Berezover-Suryskarer Khanty,language,RU,Eurasia,62.4308,66.1218,kca,shifting
 mans1258,Northern Mansi,language,RU,Eurasia,64.4118,61.344,mns,shifting
@@ -7672,9 +7672,9 @@ chip1262,Chipaya,language,BO,South America,-18.73951,-67.89633,cap,shifting
 uruu1244,Uru,language,BO,South America,-16.72547,-68.97119,ure,extinct
 usku1243,Usku,language,ID,Papunesia,-3.63853,140.502,ulf,shifting
 hopi1249,Hopi,language,US,North America,35.7653,-110.535,hop,shifting
-coma1245,Comanche,language,US,North America,34.0,-101.0,com,moribund
+coma1245,Comanche,language,US,North America,34,-101,com,moribund
 pana1305,Panamint,language,US,North America,36.0007,-117.901,par,moribund
-shos1248,Shoshoni,language,US,North America,41.0,-116.0,shh,shifting
+shos1248,Shoshoni,language,US,North America,41,-116,shh,shifting
 kawa1283,Kawaiisu,language,US,North America,36.0538,-118.679,xaw,nearly extinct
 utes1238,Ute-Southern Paiute,language,US,North America,40.0965,-110.305,ute,shifting
 mono1275,Mono (USA),language,US,North America,37.1935,-119.347,mnr,nearly extinct
@@ -7721,7 +7721,7 @@ mich1245,Michoacán Nahuatl,language,MX,North America,18.3412,-103.361,ncl,threa
 elna1235,El Nayar Cora,language,"MX,US",North America,22.4099,-104.467,crn,shifting
 sant1424,Santa Teresa Cora,language,MX,North America,22.7102,-104.7,cok,shifting
 huic1243,Huichol,language,MX,North America,21.954,-104.062,hch,threatened
-eude1234,Eudeve,language,MX,North America,28.5,-110.0,eud,extinct
+eude1234,Eudeve,language,MX,North America,28.5,-110,eud,extinct
 opat1246,Teguima,language,MX,North America,31.15211,-110.06212,opt,extinct
 huar1255,Huarijio,language,MX,North America,27.8685,-108.437,var,shifting
 cent2131,Central Tarahumara,language,MX,North America,27.5648,-107.154,tar,threatened
@@ -7805,11 +7805,11 @@ yare1248,Yareba,language,PG,Papunesia,-9.50651,148.605,yrb,not endangered
 nucl1454,Yawa,language,ID,Papunesia,-1.77196,136.263,yva,not endangered
 sawe1240,Saweru,language,ID,Papunesia,-1.91473,136.296,swr,threatened
 yele1255,Yele,language,PG,Papunesia,-11.3796,154.127,yle,shifting
-arin1243,Arin,language,RU,Eurasia,57.0,93.0,xrn,extinct
-kott1239,Kott-Assan,language,RU,Eurasia,55.0,94.0,zko,extinct
+arin1243,Arin,language,RU,Eurasia,57,93,xrn,extinct
+kott1239,Kott-Assan,language,RU,Eurasia,55,94,zko,extinct
 kett1243,Ket,language,RU,Eurasia,63.7551,87.5466,ket,shifting
 yugh1239,Yugh,language,RU,Eurasia,60.8778,89.7479,yug,extinct
-pump1237,Pumpokol,language,RU,Eurasia,58.5,92.0,xpm,extinct
+pump1237,Pumpokol,language,RU,Eurasia,58.5,92,xpm,extinct
 yera1243,Yerakai,language,PG,Papunesia,-4.28828,142.947,yra,shifting
 yetf1238,Yetfa,language,"ID,PG",Papunesia,-4.05884,140.653,yet,shifting
 yoku1256,Northern Yokuts,language,US,North America,36.3167,-119.721,yok,nearly extinct
